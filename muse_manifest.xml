@@ -1,0 +1,566 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1523958786259">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="332607917" ref="photography:everdays:videography"/>
+    <file name="nomq_preview_master_b-master.css" crc="4168523958" ref="photography:everdays:videography"/>
+    <file name="photography.css" crc="3943293964" ref="photography"/>
+    <file name="nomq_photography.css" crc="263988701" ref="photography"/>
+    <file name="smart-shelf.css" crc="3783631679" ref="smart-shelf"/>
+    <file name="nomq_smart-shelf.css" crc="188268962" ref="smart-shelf"/>
+    <file name="everdays.css" crc="401689593" ref="everdays"/>
+    <file name="nomq_everdays.css" crc="4013177880" ref="everdays"/>
+    <file name="videography.css" crc="276981477" ref="videography"/>
+    <file name="nomq_videography.css" crc="3822130971" ref="videography"/>
+    <file name="index.css" crc="129615794" ref="index"/>
+    <file name="nomq_index.css" crc="483310545" ref="index"/>
+    <file name="celkon.css" crc="3792963673" ref="celkon"/>
+    <file name="nomq_celkon.css" crc="398235775" ref="celkon"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume---siyan.pdf" crc="4019545656" seo="true" mt="1513283000000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="museutils.js" crc="3803043152" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="museconfig.js" crc="380897831" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="require.js" crc="4157109226" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+  </folder>
+  <folder name="images">
+    <file name="siyan_portfolio.png" crc="21212805" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_portfolio_2x.png" crc="3765782431" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector.png" crc="381278401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector_2x.png" crc="4030452593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-4.png" crc="4018277507" ref="index"/>
+    <file name="u450-4_2x.png" crc="4288773706" ref="index"/>
+    <file name="u471-6.png" crc="3769480572" ref="index"/>
+    <file name="u471-6_2x.png" crc="3809657354" ref="index"/>
+    <file name="contact.png" crc="331596974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_2x.png" crc="4028276123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x.png" crc="4170502036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x_2x.png" crc="485635670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography@4x.png" crc="4022437114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography@4x_2x.png" crc="73030853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x.png" crc="4170375322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x_2x.png" crc="4038962836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-4.png" crc="149738397" ref="index"/>
+    <file name="u1722-4_2x.png" crc="3840441114" ref="index"/>
+    <file name="u15381-4.png" crc="445944321" ref="index"/>
+    <file name="u15381-4_2x.png" crc="3804061800" ref="index"/>
+    <file name="u15762-4.png" crc="3821771891" ref="index"/>
+    <file name="u15762-4_2x.png" crc="358752739" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:everdays:photography:videography:smart-shelf:celkon"/>
+    <file name="u12660_states.png" crc="4077668410" ref="index"/>
+    <file name="u12660_states_2x.png" crc="424508872" ref="index"/>
+    <file name="u12660_states-r.png" crc="3771102424" ref="index"/>
+    <file name="u12660_states-r_2x.png" crc="55382541" ref="index"/>
+    <file name="u15297_states.png" crc="3781404557" ref="index"/>
+    <file name="u15297_states_2x.png" crc="3815711281" ref="index"/>
+    <file name="u15297_states-r.png" crc="231964985" ref="index"/>
+    <file name="u15297_states-r_2x.png" crc="4091340416" ref="index"/>
+    <file name="u15339_states.png" crc="346826926" ref="index"/>
+    <file name="u15339_states_2x.png" crc="471346431" ref="index"/>
+    <file name="u15339_states-r.png" crc="3780128866" ref="index"/>
+    <file name="u15339_states-r_2x.png" crc="45107492" ref="index"/>
+    <file name="siyan_photography@4x471x280.png" crc="320430434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography@4x471x280_2x.png" crc="4136181054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x471x279.png" crc="3768485710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x471x279_2x.png" crc="3900357998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x468x278.png" crc="4114445381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x468x278_2x.png" crc="4224617188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-42.png" crc="141818005" ref="index"/>
+    <file name="u1722-4_2x2.png" crc="349681871" ref="index"/>
+    <file name="siyan_portfolio2.png" crc="21212805" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_portfolio_2x2.png" crc="3765782431" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-42.png" crc="4018277507" ref="index"/>
+    <file name="u450-4_2x2.png" crc="4288773706" ref="index"/>
+    <file name="u471-62.png" crc="3968876014" ref="index"/>
+    <file name="u471-6_2x2.png" crc="3855238047" ref="index"/>
+    <file name="u15381-42.png" crc="192437071" ref="index"/>
+    <file name="u15381-4_2x2.png" crc="427358615" ref="index"/>
+    <file name="u15762-42.png" crc="315274090" ref="index"/>
+    <file name="u15762-4_2x2.png" crc="252876169" ref="index"/>
+    <file name="u12660_states2.png" crc="3800895374" ref="index"/>
+    <file name="u12660_states_2x2.png" crc="272805094" ref="index"/>
+    <file name="u12660_states-r2.png" crc="3773537497" ref="index"/>
+    <file name="u12660_states-r_2x2.png" crc="3873218385" ref="index"/>
+    <file name="u15297_states2.png" crc="3908102719" ref="index"/>
+    <file name="u15297_states_2x2.png" crc="384988063" ref="index"/>
+    <file name="u15297_states-r2.png" crc="4013882454" ref="index"/>
+    <file name="u15297_states-r_2x2.png" crc="139530064" ref="index"/>
+    <file name="u15339_states2.png" crc="3795600703" ref="index"/>
+    <file name="u15339_states_2x2.png" crc="109530835" ref="index"/>
+    <file name="u15339_states-r2.png" crc="465152071" ref="index"/>
+    <file name="u15339_states-r_2x2.png" crc="4011403031" ref="index"/>
+    <file name="face-flat-vector303x306.png" crc="299783311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector303x306_2x.png" crc="4030452593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-43.png" crc="502386803" ref="index"/>
+    <file name="u450-4_2x3.png" crc="4294074108" ref="index"/>
+    <file name="u471-63.png" crc="4012617451" ref="index"/>
+    <file name="u471-6_2x3.png" crc="287045443" ref="index"/>
+    <file name="u529-4.png" crc="4207109051" ref="index"/>
+    <file name="u529-4_2x.png" crc="508066716" ref="index"/>
+    <file name="u551-4.png" crc="2396302" ref="index"/>
+    <file name="u551-4_2x.png" crc="4148251972" ref="index"/>
+    <file name="siyan_photography@4x366x217.png" crc="3883025239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography@4x366x217_2x.png" crc="3985046930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x366x217.png" crc="8203702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x366x217_2x.png" crc="4150629207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x366x217.png" crc="176956676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x366x217_2x.png" crc="74996454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-43.png" crc="80253616" ref="index"/>
+    <file name="u1722-4_2x3.png" crc="3974312185" ref="index"/>
+    <file name="u15381-43.png" crc="527011333" ref="index"/>
+    <file name="u15381-4_2x3.png" crc="308252634" ref="index"/>
+    <file name="u15762-43.png" crc="105455116" ref="index"/>
+    <file name="u15762-4_2x3.png" crc="231640505" ref="index"/>
+    <file name="u12660_states3.png" crc="4293639634" ref="index"/>
+    <file name="u12660_states_2x3.png" crc="324827840" ref="index"/>
+    <file name="u12660_states-r3.png" crc="204290423" ref="index"/>
+    <file name="u12660_states-r_2x3.png" crc="4110736483" ref="index"/>
+    <file name="u15297_states3.png" crc="282053950" ref="index"/>
+    <file name="u15297_states_2x3.png" crc="66559958" ref="index"/>
+    <file name="u15297_states-r3.png" crc="4045799291" ref="index"/>
+    <file name="u15297_states-r_2x3.png" crc="4037480632" ref="index"/>
+    <file name="u15339_states3.png" crc="3978741837" ref="index"/>
+    <file name="u15339_states_2x3.png" crc="501365016" ref="index"/>
+    <file name="u15339_states-r3.png" crc="4255347503" ref="index"/>
+    <file name="u15339_states-r_2x3.png" crc="4006510559" ref="index"/>
+    <file name="u450-44.png" crc="176782565" ref="index"/>
+    <file name="u450-4_2x4.png" crc="350852369" ref="index"/>
+    <file name="u471-64.png" crc="3938791689" ref="index"/>
+    <file name="u471-6_2x4.png" crc="510146180" ref="index"/>
+    <file name="u529-42.png" crc="4207109051" ref="index"/>
+    <file name="u529-4_2x2.png" crc="508066716" ref="index"/>
+    <file name="u551-42.png" crc="2396302" ref="index"/>
+    <file name="u551-4_2x2.png" crc="4148251972" ref="index"/>
+    <file name="face-flat-vector199x200.png" crc="3944530509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector199x200_2x.png" crc="4241153446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact20x21.png" crc="382913706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact20x21_2x.png" crc="4180456530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography@4x225x134.png" crc="4107032032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography@4x225x134_2x.png" crc="522270121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x225x134.png" crc="267936040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays@4x225x134_2x.png" crc="204780007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x225x134.png" crc="4147250895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography@4x225x134_2x.png" crc="437785496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-44.png" crc="4234441285" ref="index"/>
+    <file name="u1722-4_2x4.png" crc="3929924707" ref="index"/>
+    <file name="u15381-44.png" crc="100782848" ref="index"/>
+    <file name="u15381-4_2x4.png" crc="4158409224" ref="index"/>
+    <file name="u15762-44.png" crc="4005298515" ref="index"/>
+    <file name="u15762-4_2x4.png" crc="301191824" ref="index"/>
+    <file name="u12660_states4.png" crc="3947347834" ref="index"/>
+    <file name="u12660_states_2x4.png" crc="144468771" ref="index"/>
+    <file name="u12660_states-r4.png" crc="32709124" ref="index"/>
+    <file name="u12660_states-r_2x4.png" crc="4073573623" ref="index"/>
+    <file name="u15297_states4.png" crc="4081823520" ref="index"/>
+    <file name="u15297_states_2x4.png" crc="251511834" ref="index"/>
+    <file name="u15297_states-r4.png" crc="4038212300" ref="index"/>
+    <file name="u15297_states-r_2x4.png" crc="413952596" ref="index"/>
+    <file name="u15339_states4.png" crc="3924195888" ref="index"/>
+    <file name="u15339_states_2x4.png" crc="3995233935" ref="index"/>
+    <file name="u15339_states-r4.png" crc="4201981766" ref="index"/>
+    <file name="u15339_states-r_2x4.png" crc="369160480" ref="index"/>
+    <file name="siyan_photography_1182x210.png" crc="4001233156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography_1182x210_2x.png" crc="159341720" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography_1182x210.png" crc="4178390207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography_1182x210_2x.png" crc="323203496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays_1182x210.png" crc="260019661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays_1182x210_2x.png" crc="3854013634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-45.png" crc="255640035" ref="index"/>
+    <file name="u1722-4_2x5.png" crc="72018203" ref="index"/>
+    <file name="face-flat-vector256x258.png" crc="4007561002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector256x258_2x.png" crc="4030452593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-45.png" crc="4216666481" ref="index"/>
+    <file name="u450-4_2x5.png" crc="3763632804" ref="index"/>
+    <file name="u471-65.png" crc="4032495071" ref="index"/>
+    <file name="u471-6_2x5.png" crc="3890122741" ref="index"/>
+    <file name="u529-43.png" crc="358971799" ref="index"/>
+    <file name="u529-4_2x3.png" crc="4162116783" ref="index"/>
+    <file name="u551-43.png" crc="135961197" ref="index"/>
+    <file name="u551-4_2x3.png" crc="381046853" ref="index"/>
+    <file name="contact15x16.png" crc="252333315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact15x16_2x.png" crc="331596974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u15381-45.png" crc="4200494063" ref="index"/>
+    <file name="u15381-4_2x5.png" crc="315607638" ref="index"/>
+    <file name="u15762-45.png" crc="4290948947" ref="index"/>
+    <file name="u15762-4_2x5.png" crc="4118535796" ref="index"/>
+    <file name="u12660_states5.png" crc="421054191" ref="index"/>
+    <file name="u12660_states_2x5.png" crc="327105788" ref="index"/>
+    <file name="u12660_states-r5.png" crc="3998381332" ref="index"/>
+    <file name="u12660_states-r_2x5.png" crc="3854347566" ref="index"/>
+    <file name="u15297_states5.png" crc="3936313976" ref="index"/>
+    <file name="u15297_states_2x5.png" crc="4182287263" ref="index"/>
+    <file name="u15297_states-r5.png" crc="3864574743" ref="index"/>
+    <file name="u15297_states-r_2x5.png" crc="3904184043" ref="index"/>
+    <file name="u15339_states5.png" crc="271691826" ref="index"/>
+    <file name="u15339_states_2x5.png" crc="506843958" ref="index"/>
+    <file name="u15339_states-r5.png" crc="4109973889" ref="index"/>
+    <file name="u15339_states-r_2x5.png" crc="4080464081" ref="index"/>
+    <file name="face-flat-vector289x292.png" crc="376931773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector289x292_2x.png" crc="4030452593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-46.png" crc="4275665459" ref="index"/>
+    <file name="u450-4_2x6.png" crc="47485003" ref="index"/>
+    <file name="u471-66.png" crc="4073515526" ref="index"/>
+    <file name="u471-6_2x6.png" crc="7579396" ref="index"/>
+    <file name="u529-44.png" crc="358971799" ref="index"/>
+    <file name="u529-4_2x4.png" crc="4162116783" ref="index"/>
+    <file name="u551-44.png" crc="31293661" ref="index"/>
+    <file name="u551-4_2x4.png" crc="4205383802" ref="index"/>
+    <file name="contact17x18.png" crc="4247218905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact17x18_2x.png" crc="4037222213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography_2112x112.png" crc="219701295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography_2112x112_2x.png" crc="106833657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays_2112x112.png" crc="3790256667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays_2112x112_2x.png" crc="3866824798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography_2112x112.png" crc="4287488320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography_2112x112_2x.png" crc="3859825345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-46.png" crc="387725112" ref="index"/>
+    <file name="u1722-4_2x6.png" crc="3861154721" ref="index"/>
+    <file name="u15381-46.png" crc="333616276" ref="index"/>
+    <file name="u15381-4_2x6.png" crc="3783975936" ref="index"/>
+    <file name="u15762-46.png" crc="3950186274" ref="index"/>
+    <file name="u15762-4_2x6.png" crc="465346409" ref="index"/>
+    <file name="u12660_states6.png" crc="4122363556" ref="index"/>
+    <file name="u12660_states_2x6.png" crc="499922316" ref="index"/>
+    <file name="u12660_states-r6.png" crc="4015058164" ref="index"/>
+    <file name="u12660_states-r_2x6.png" crc="27746705" ref="index"/>
+    <file name="u15297_states6.png" crc="3760270673" ref="index"/>
+    <file name="u15297_states_2x6.png" crc="3876313699" ref="index"/>
+    <file name="u15297_states-r6.png" crc="4162541858" ref="index"/>
+    <file name="u15297_states-r_2x6.png" crc="496414650" ref="index"/>
+    <file name="u15339_states6.png" crc="227520303" ref="index"/>
+    <file name="u15339_states_2x6.png" crc="3814141888" ref="index"/>
+    <file name="u15339_states-r6.png" crc="4058256346" ref="index"/>
+    <file name="u15339_states-r_2x6.png" crc="4234323032" ref="index"/>
+    <file name="face-flat-vector-crop-u1068.png" crc="508540890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="face-flat-vector-crop-u1068_2x.png" crc="4032352465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-47.png" crc="4185844922" ref="index"/>
+    <file name="u450-4_2x7.png" crc="365189669" ref="index"/>
+    <file name="u471-67.png" crc="4038962564" ref="index"/>
+    <file name="u471-6_2x7.png" crc="3857428532" ref="index"/>
+    <file name="u9958-4.png" crc="3843501923" ref="index"/>
+    <file name="u9958-4_2x.png" crc="109269424" ref="index"/>
+    <file name="siyan_movies_videography200x201.png" crc="176973354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_movies_videography_2x.png" crc="4115336272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays.png" crc="4187352654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_design_everydays_2x.png" crc="4060266996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9988-4.png" crc="505645252" ref="index"/>
+    <file name="u9988-4_2x.png" crc="3931000548" ref="index"/>
+    <file name="u10030-4.png" crc="4105551620" ref="index"/>
+    <file name="u10030-4_2x.png" crc="312425611" ref="index"/>
+    <file name="siyan_photography189x190.png" crc="3846538418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siyan_photography_2x.png" crc="4143804249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1722-47.png" crc="4264362499" ref="index"/>
+    <file name="u1722-4_2x7.png" crc="463379464" ref="index"/>
+    <file name="u15381-47.png" crc="92695474" ref="index"/>
+    <file name="u15381-4_2x7.png" crc="4238047644" ref="index"/>
+    <file name="u15762-47.png" crc="57829461" ref="index"/>
+    <file name="u15762-4_2x7.png" crc="3850987113" ref="index"/>
+    <file name="u12660_states7.png" crc="3813714915" ref="index"/>
+    <file name="u12660_states_2x7.png" crc="3914470051" ref="index"/>
+    <file name="u12660_states-r7.png" crc="4212966887" ref="index"/>
+    <file name="u12660_states-r_2x7.png" crc="533385731" ref="index"/>
+    <file name="u15297_states7.png" crc="3953627577" ref="index"/>
+    <file name="u15297_states_2x7.png" crc="4026742745" ref="index"/>
+    <file name="u15297_states-r7.png" crc="3980755105" ref="index"/>
+    <file name="u15297_states-r_2x7.png" crc="369405125" ref="index"/>
+    <file name="u15339_states7.png" crc="299765130" ref="index"/>
+    <file name="u15339_states_2x7.png" crc="182860263" ref="index"/>
+    <file name="u15339_states-r7.png" crc="217209698" ref="index"/>
+    <file name="u15339_states-r_2x7.png" crc="4175425264" ref="index"/>
+    <file name="page-under-construction.jpg" crc="117845233" seo="true" ref="everdays:photography:videography">
+      <caption webpage="everdays" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="back127x121.png" crc="4182321900" seo="true" ref="everdays">
+      <caption webpage="everdays" alt=""/>
+    </file>
+    <file name="back127x121_2x.png" crc="428074615" seo="true" ref="everdays">
+      <caption webpage="everdays" alt=""/>
+    </file>
+    <file name="page-under-construction-small.jpg" crc="4226195034" seo="true" ref="everdays:photography:videography">
+      <caption webpage="everdays" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="back102x97.png" crc="423318640" seo="true" ref="everdays">
+      <caption webpage="everdays" alt=""/>
+    </file>
+    <file name="back102x97_2x.png" crc="4128790320" seo="true" ref="everdays">
+      <caption webpage="everdays" alt=""/>
+    </file>
+    <file name="u16608-6.png" crc="350072774" ref="smart-shelf"/>
+    <file name="u16608-6_2x.png" crc="4034666831" ref="smart-shelf"/>
+    <file name="u16633-4.png" crc="4045217127" ref="smart-shelf"/>
+    <file name="u16633-4_2x.png" crc="4172707774" ref="smart-shelf"/>
+    <file name="u16700-4.png" crc="305277573" ref="smart-shelf"/>
+    <file name="u16700-4_2x.png" crc="454165032" ref="smart-shelf"/>
+    <file name="u16712-4.png" crc="4291720116" ref="smart-shelf"/>
+    <file name="u16712-4_2x.png" crc="95301683" ref="smart-shelf"/>
+    <file name="u16742-4.png" crc="259986206" ref="smart-shelf"/>
+    <file name="u16742-4_2x.png" crc="49501129" ref="smart-shelf"/>
+    <file name="u16760-4.png" crc="4181682427" ref="smart-shelf"/>
+    <file name="u16760-4_2x.png" crc="434497042" ref="smart-shelf"/>
+    <file name="u16778-4.png" crc="384538700" ref="smart-shelf"/>
+    <file name="u16778-4_2x.png" crc="4176680580" ref="smart-shelf"/>
+    <file name="u16608-62.png" crc="3971766938" ref="smart-shelf"/>
+    <file name="u16608-6_2x2.png" crc="348027307" ref="smart-shelf"/>
+    <file name="u16633-42.png" crc="3925632153" ref="smart-shelf"/>
+    <file name="u16633-4_2x2.png" crc="4040588482" ref="smart-shelf"/>
+    <file name="u16700-42.png" crc="305277573" ref="smart-shelf"/>
+    <file name="u16700-4_2x2.png" crc="454165032" ref="smart-shelf"/>
+    <file name="u16712-42.png" crc="4207455303" ref="smart-shelf"/>
+    <file name="u16712-4_2x2.png" crc="246379745" ref="smart-shelf"/>
+    <file name="u16742-42.png" crc="3768820594" ref="smart-shelf"/>
+    <file name="u16742-4_2x2.png" crc="66134675" ref="smart-shelf"/>
+    <file name="u16760-42.png" crc="4101254016" ref="smart-shelf"/>
+    <file name="u16760-4_2x2.png" crc="3866550445" ref="smart-shelf"/>
+    <file name="u16778-42.png" crc="4142058558" ref="smart-shelf"/>
+    <file name="u16778-4_2x2.png" crc="487095956" ref="smart-shelf"/>
+    <file name="u16608-63.png" crc="38248232" ref="smart-shelf"/>
+    <file name="u16608-6_2x3.png" crc="3847013634" ref="smart-shelf"/>
+    <file name="u16633-43.png" crc="4242156386" ref="smart-shelf"/>
+    <file name="u16633-4_2x3.png" crc="3939450973" ref="smart-shelf"/>
+    <file name="u16700-43.png" crc="3893931536" ref="smart-shelf"/>
+    <file name="u16700-4_2x3.png" crc="82147149" ref="smart-shelf"/>
+    <file name="u16712-43.png" crc="4263689778" ref="smart-shelf"/>
+    <file name="u16712-4_2x3.png" crc="406294416" ref="smart-shelf"/>
+    <file name="u16742-43.png" crc="480676435" ref="smart-shelf"/>
+    <file name="u16742-4_2x3.png" crc="480683556" ref="smart-shelf"/>
+    <file name="u16760-43.png" crc="4108186414" ref="smart-shelf"/>
+    <file name="u16760-4_2x3.png" crc="4029275887" ref="smart-shelf"/>
+    <file name="u16778-43.png" crc="331006650" ref="smart-shelf"/>
+    <file name="u16778-4_2x3.png" crc="535682939" ref="smart-shelf"/>
+    <file name="u16608-64.png" crc="3763407527" ref="smart-shelf"/>
+    <file name="u16608-6_2x4.png" crc="3967706879" ref="smart-shelf"/>
+    <file name="u16633-44.png" crc="411444775" ref="smart-shelf"/>
+    <file name="u16633-4_2x4.png" crc="4014020982" ref="smart-shelf"/>
+    <file name="u16700-44.png" crc="4055978747" ref="smart-shelf"/>
+    <file name="u16700-4_2x4.png" crc="4120033882" ref="smart-shelf"/>
+    <file name="u16712-44.png" crc="3979470746" ref="smart-shelf"/>
+    <file name="u16712-4_2x4.png" crc="4080229922" ref="smart-shelf"/>
+    <file name="u16742-44.png" crc="352536190" ref="smart-shelf"/>
+    <file name="u16742-4_2x4.png" crc="105148061" ref="smart-shelf"/>
+    <file name="u16760-44.png" crc="4245026023" ref="smart-shelf"/>
+    <file name="u16760-4_2x4.png" crc="134970531" ref="smart-shelf"/>
+    <file name="u16778-44.png" crc="3786215323" ref="smart-shelf"/>
+    <file name="u16778-4_2x4.png" crc="474405751" ref="smart-shelf"/>
+    <file name="u16608-65.png" crc="384109642" ref="smart-shelf"/>
+    <file name="u16608-6_2x5.png" crc="461934106" ref="smart-shelf"/>
+    <file name="u16633-45.png" crc="3899316061" ref="smart-shelf"/>
+    <file name="u16633-4_2x5.png" crc="82482698" ref="smart-shelf"/>
+    <file name="u16700-45.png" crc="269038314" ref="smart-shelf"/>
+    <file name="u16700-4_2x5.png" crc="109254080" ref="smart-shelf"/>
+    <file name="u16712-45.png" crc="197755286" ref="smart-shelf"/>
+    <file name="u16712-4_2x5.png" crc="507933976" ref="smart-shelf"/>
+    <file name="u16742-45.png" crc="306866975" ref="smart-shelf"/>
+    <file name="u16742-4_2x5.png" crc="263188709" ref="smart-shelf"/>
+    <file name="u16760-45.png" crc="4025821497" ref="smart-shelf"/>
+    <file name="u16760-4_2x5.png" crc="62932389" ref="smart-shelf"/>
+    <file name="u16778-45.png" crc="4290265462" ref="smart-shelf"/>
+    <file name="u16778-4_2x5.png" crc="273206166" ref="smart-shelf"/>
+    <file name="u16608-66.png" crc="4006807543" ref="smart-shelf"/>
+    <file name="u16608-6_2x6.png" crc="3986998855" ref="smart-shelf"/>
+    <file name="u16633-46.png" crc="4155428248" ref="smart-shelf"/>
+    <file name="u16633-4_2x6.png" crc="3944849236" ref="smart-shelf"/>
+    <file name="u16700-46.png" crc="497235067" ref="smart-shelf"/>
+    <file name="u16700-4_2x6.png" crc="3915315091" ref="smart-shelf"/>
+    <file name="u16712-46.png" crc="343619065" ref="smart-shelf"/>
+    <file name="u16712-4_2x6.png" crc="473870045" ref="smart-shelf"/>
+    <file name="u16742-46.png" crc="287178324" ref="smart-shelf"/>
+    <file name="u16742-4_2x6.png" crc="3883585007" ref="smart-shelf"/>
+    <file name="u16760-46.png" crc="4271759069" ref="smart-shelf"/>
+    <file name="u16760-4_2x6.png" crc="205826966" ref="smart-shelf"/>
+    <file name="u16778-46.png" crc="143701366" ref="smart-shelf"/>
+    <file name="u16778-4_2x6.png" crc="73670025" ref="smart-shelf"/>
+    <file name="11920x4744.jpg" crc="197071196" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="u17458-4.png" crc="285587944" ref="celkon"/>
+    <file name="u17458-4_2x.png" crc="270692944" ref="celkon"/>
+    <file name="we-from-celkon4.gif" crc="3960945607" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+      <caption webpage="celkon" alt=""/>
+      <caption webpage="celkon" alt=""/>
+      <caption webpage="celkon" alt=""/>
+      <caption webpage="celkon" alt=""/>
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="u17458-42.png" crc="285587944" ref="celkon"/>
+    <file name="u17458-4_2x2.png" crc="270692944" ref="celkon"/>
+    <file name="1-crop-u17353.jpg" crc="235526077" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="1-crop-u173532.jpg" crc="468238802" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="u17458-43.png" crc="58645845" ref="celkon"/>
+    <file name="u17458-4_2x3.png" crc="4013900498" ref="celkon"/>
+    <file name="1-crop-u173533.jpg" crc="518420823" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="u17458-44.png" crc="281699912" ref="celkon"/>
+    <file name="u17458-4_2x4.png" crc="3790726162" ref="celkon"/>
+    <file name="1-crop-u173534.jpg" crc="520618393" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="u17458-45.png" crc="4216241880" ref="celkon"/>
+    <file name="u17458-4_2x5.png" crc="3822481912" ref="celkon"/>
+    <file name="1320x791.jpg" crc="3881598563" seo="true" ref="celkon">
+      <caption webpage="celkon" alt=""/>
+    </file>
+    <file name="u17458-46.png" crc="520708402" ref="celkon"/>
+    <file name="u17458-4_2x6.png" crc="3823933611" ref="celkon"/>
+  </folder>
+  <file name="index.html" crc="531208834" seo="true" mt="1523918170087" redirect="true"/>
+  <file name="everdays.html" crc="4049723782" seo="true" mt="1523910533123" redirect="true"/>
+  <file name="photography.html" crc="3772859190" seo="true" mt="1523910533123" redirect="true"/>
+  <file name="videography.html" crc="197711470" seo="true" mt="1523910533123" redirect="true"/>
+  <file name="smart-shelf.html" crc="396962177" seo="true" mt="1518953187944" redirect="true"/>
+  <file name="celkon.html" crc="453898041" seo="true" mt="1522010562362" redirect="true"/>
+</manifest>
