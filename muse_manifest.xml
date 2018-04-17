@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524001368458">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524001522404">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_b-master.css" crc="3971803769" ref="photography:videography:stay-tuned!:everydays"/>
@@ -31,7 +31,7 @@
     <file name="require.js" crc="4157109226" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4126878398" ref="index"/>
+    <file name="favicon.ico" crc="4104844694" ref="index"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -553,11 +553,11 @@
       <caption webpage="stay-tuned!" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="131647944" seo="true" mt="1524001289909" redirect="true"/>
-  <file name="everydays.html" crc="277878389" seo="true" mt="1524001289909" redirect="true"/>
-  <file name="photography.html" crc="232602266" seo="true" mt="1524001289909" redirect="true"/>
-  <file name="videography.html" crc="5161114" seo="true" mt="1524001289909" redirect="true"/>
-  <file name="smart-shelf.html" crc="205806307" seo="true" mt="1524001289909" redirect="true"/>
-  <file name="celkon.html" crc="3762881862" seo="true" mt="1524001289909" redirect="true"/>
-  <file name="stay-tuned!.html" crc="340245831" seo="true" mt="1524001289909" redirect="true"/>
+  <file name="index.html" crc="4171077956" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="everydays.html" crc="3870389959" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="photography.html" crc="4155239891" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="videography.html" crc="4197980115" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="smart-shelf.html" crc="4190123059" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="celkon.html" crc="463294738" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="stay-tuned!.html" crc="2865157" seo="true" mt="1524001490833" redirect="true"/>
 </manifest>
