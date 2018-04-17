@@ -114,16 +114,16 @@
       <image:loc>http://www.siyan.in/images/siyan_photography_1182x210_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/siyan_movies_videography_1182x210.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/siyan_movies_videography_1182x210_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.siyan.in/images/siyan_design_everydays_1182x210.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/siyan_design_everydays_1182x210_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan_movies_videography_1182x210.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan_movies_videography_1182x210_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/face-flat-vector256x258.png</image:loc>
@@ -193,7 +193,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/photography.html</loc>
+    <loc>http://www.siyan.in/videography.html</loc>
     <lastmod>2018-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -205,8 +205,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/everdays.html</loc>
-    <lastmod>2018-04-17</lastmod>
+    <loc>http://www.siyan.in/everydays.html</loc>
+    <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -229,13 +229,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/smart-shelf.html</loc>
-    <lastmod>2018-02-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.siyan.in/videography.html</loc>
+    <loc>http://www.siyan.in/photography.html</loc>
     <lastmod>2018-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -253,6 +247,33 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.siyan.in/images/we-from-celkon4.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/smart-shelf.html</loc>
+    <lastmod>2018-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/stay-tuned!.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction-small.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back180x173.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back_2x.png</image:loc>
     </image:image>
   </url>
   <url>
