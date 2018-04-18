@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.siyan.in/index.html</loc>
-    <lastmod>2018-04-18</lastmod>
+    <lastmod>2018-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -248,9 +248,45 @@
   </url>
   <url>
     <loc>http://www.siyan.in/smart-shelf.html</loc>
-    <lastmod>2018-04-18</lastmod>
+    <lastmod>2018-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back86x83.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back86x83_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back65x62.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back65x62_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back43x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back43x42_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back35x33.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back35x33_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back22x21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back22x21_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back15x14.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back15x14_2x.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/1.jpg</image:loc>
     </image:image>
@@ -428,7 +464,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/user-testing-for-physical-spaces.html</loc>
-    <lastmod>2018-04-18</lastmod>
+    <lastmod>2018-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
