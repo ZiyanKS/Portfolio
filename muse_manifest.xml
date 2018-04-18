@@ -1,34 +1,38 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524001522404">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524074690145">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-master.css" crc="3971803769" ref="photography:videography:stay-tuned!:everydays"/>
-    <file name="nomq_preview_master_b-master.css" crc="4168523958" ref="photography:videography:stay-tuned!:everydays"/>
-    <file name="photography.css" crc="3943293964" ref="photography"/>
-    <file name="nomq_photography.css" crc="263988701" ref="photography"/>
-    <file name="videography.css" crc="276981477" ref="videography"/>
-    <file name="nomq_videography.css" crc="3822130971" ref="videography"/>
-    <file name="index.css" crc="173990963" ref="index"/>
-    <file name="nomq_index.css" crc="483310545" ref="index"/>
-    <file name="stay-tuned_.css" crc="4053230078" ref="stay-tuned!"/>
-    <file name="nomq_stay-tuned_.css" crc="4172298625" ref="stay-tuned!"/>
-    <file name="smart-shelf.css" crc="3783631679" ref="smart-shelf"/>
-    <file name="nomq_smart-shelf.css" crc="188268962" ref="smart-shelf"/>
-    <file name="everydays.css" crc="401689593" ref="everydays"/>
-    <file name="nomq_everydays.css" crc="4013177880" ref="everydays"/>
-    <file name="celkon.css" crc="463359065" ref="celkon"/>
-    <file name="nomq_celkon.css" crc="354797576" ref="celkon"/>
+    <file name="photography.css" crc="33660147" ref="photography"/>
+    <file name="nomq_photography.css" crc="4070519175" ref="photography"/>
+    <file name="videography.css" crc="33660147" ref="videography"/>
+    <file name="nomq_videography.css" crc="4070519175" ref="videography"/>
+    <file name="index.css" crc="498565757" ref="index"/>
+    <file name="nomq_index.css" crc="4030782272" ref="index"/>
+    <file name="stay-tuned_.css" crc="4152684102" ref="stay-tuned!"/>
+    <file name="nomq_stay-tuned_.css" crc="136825898" ref="stay-tuned!"/>
+    <file name="smart-shelf.css" crc="3789055372" ref="smart-shelf"/>
+    <file name="nomq_smart-shelf.css" crc="3901173220" ref="smart-shelf"/>
+    <file name="everydays.css" crc="33660147" ref="everydays"/>
+    <file name="nomq_everydays.css" crc="4070519175" ref="everydays"/>
+    <file name="master_projects.css" crc="435463279" ref="user-testing-for-physical-spaces:videography:smart-shelf:everydays:photography"/>
+    <file name="nomq_preview_master_projects.css" crc="3824530138" ref="user-testing-for-physical-spaces:videography:smart-shelf:everydays:photography"/>
+    <file name="master_stay-tuned.css" crc="206329819" ref="stay-tuned!"/>
+    <file name="nomq_preview_master_stay-tuned.css" crc="4168523958" ref="stay-tuned!"/>
+    <file name="user-testing-for-physical-spaces.css" crc="4203879898" ref="user-testing-for-physical-spaces"/>
+    <file name="nomq_user-testing-for-physical-spaces.css" crc="281223160" ref="user-testing-for-physical-spaces"/>
   </folder>
   <folder name="assets">
     <file name="resume---siyan.pdf" crc="4019545656" seo="true" mt="1513283000000"/>
+    <file name="-mr--customer-preloader-v2.mulib" crc="72198757" seo="true" mt="1433089078000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
-    <file name="museutils.js" crc="3803043152" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
-    <file name="whatinput.js" crc="86476730" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
-    <file name="museconfig.js" crc="380897831" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
-    <file name="require.js" crc="4157109226" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="museutils.js" crc="3803043152" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="whatinput.js" crc="86476730" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="museconfig.js" crc="380897831" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="require.js" crc="4157109226" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4104844694" ref="index"/>
@@ -84,7 +88,7 @@
     <file name="u15381-4_2x.png" crc="3804061800" ref="index"/>
     <file name="u15762-4.png" crc="3821771891" ref="index"/>
     <file name="u15762-4_2x.png" crc="358752739" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:everydays:photography:videography:smart-shelf:celkon:stay-tuned!"/>
+    <file name="blank.gif" crc="4208392903" ref="index:everydays:photography:videography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces"/>
     <file name="u12660_states.png" crc="4077668410" ref="index"/>
     <file name="u12660_states_2x.png" crc="424508872" ref="index"/>
     <file name="u12660_states-r.png" crc="3771102424" ref="index"/>
@@ -197,10 +201,10 @@
     <file name="u450-4_2x4.png" crc="350852369" ref="index"/>
     <file name="u471-64.png" crc="3938791689" ref="index"/>
     <file name="u471-6_2x4.png" crc="510146180" ref="index"/>
-    <file name="u529-42.png" crc="4207109051" ref="index"/>
-    <file name="u529-4_2x2.png" crc="508066716" ref="index"/>
-    <file name="u551-42.png" crc="2396302" ref="index"/>
-    <file name="u551-4_2x2.png" crc="4148251972" ref="index"/>
+    <file name="u529-42.png" crc="67552699" ref="index"/>
+    <file name="u529-4_2x2.png" crc="40353550" ref="index"/>
+    <file name="u551-42.png" crc="275067254" ref="index"/>
+    <file name="u551-4_2x2.png" crc="4266560013" ref="index"/>
     <file name="face-flat-vector199x200.png" crc="3944530509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -277,8 +281,8 @@
     </file>
     <file name="u450-45.png" crc="4216666481" ref="index"/>
     <file name="u450-4_2x5.png" crc="3763632804" ref="index"/>
-    <file name="u471-65.png" crc="4032495071" ref="index"/>
-    <file name="u471-6_2x5.png" crc="3890122741" ref="index"/>
+    <file name="u471-65.png" crc="413493061" ref="index"/>
+    <file name="u471-6_2x5.png" crc="3850039170" ref="index"/>
     <file name="u529-43.png" crc="358971799" ref="index"/>
     <file name="u529-4_2x3.png" crc="4162116783" ref="index"/>
     <file name="u551-43.png" crc="135961197" ref="index"/>
@@ -315,8 +319,8 @@
     </file>
     <file name="u450-46.png" crc="4275665459" ref="index"/>
     <file name="u450-4_2x6.png" crc="47485003" ref="index"/>
-    <file name="u471-66.png" crc="4073515526" ref="index"/>
-    <file name="u471-6_2x6.png" crc="7579396" ref="index"/>
+    <file name="u471-66.png" crc="3907809598" ref="index"/>
+    <file name="u471-6_2x6.png" crc="4142839766" ref="index"/>
     <file name="u529-44.png" crc="358971799" ref="index"/>
     <file name="u529-4_2x4.png" crc="4162116783" ref="index"/>
     <file name="u551-44.png" crc="31293661" ref="index"/>
@@ -415,149 +419,304 @@
     <file name="u15339_states_2x7.png" crc="182860263" ref="index"/>
     <file name="u15339_states-r7.png" crc="217209698" ref="index"/>
     <file name="u15339_states-r_2x7.png" crc="4175425264" ref="index"/>
-    <file name="page-under-construction.jpg" crc="117845233" seo="true" ref="everydays:photography:videography:stay-tuned!">
+    <file name="page-under-construction.jpg" crc="117845233" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back127x121.png" crc="4178654653" seo="true" ref="stay-tuned!">
       <caption webpage="stay-tuned!" alt=""/>
       <caption webpage="everydays" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="photography" alt=""/>
     </file>
-    <file name="back127x121.png" crc="4182321900" seo="true" ref="everydays">
-      <caption webpage="everydays" alt=""/>
-    </file>
-    <file name="back127x121_2x.png" crc="428074615" seo="true" ref="everydays">
-      <caption webpage="everydays" alt=""/>
-    </file>
-    <file name="page-under-construction-small.jpg" crc="4226195034" seo="true" ref="everydays:photography:videography:stay-tuned!">
+    <file name="back127x121_2x.png" crc="325976909" seo="true" ref="stay-tuned!">
       <caption webpage="stay-tuned!" alt=""/>
       <caption webpage="everydays" alt=""/>
-      <caption webpage="videography" alt=""/>
+    </file>
+    <file name="page-under-construction-small.jpg" crc="4226195034" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
       <caption webpage="photography" alt=""/>
-    </file>
-    <file name="back102x97.png" crc="423318640" seo="true" ref="everydays">
+      <caption webpage="videography" alt=""/>
       <caption webpage="everydays" alt=""/>
     </file>
-    <file name="back102x97_2x.png" crc="4128790320" seo="true" ref="everydays">
+    <file name="back102x97.png" crc="134097835" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
       <caption webpage="everydays" alt=""/>
     </file>
-    <file name="u16608-6.png" crc="350072774" ref="smart-shelf"/>
-    <file name="u16608-6_2x.png" crc="4034666831" ref="smart-shelf"/>
-    <file name="u16633-4.png" crc="4045217127" ref="smart-shelf"/>
-    <file name="u16633-4_2x.png" crc="4172707774" ref="smart-shelf"/>
-    <file name="u16700-4.png" crc="305277573" ref="smart-shelf"/>
-    <file name="u16700-4_2x.png" crc="454165032" ref="smart-shelf"/>
-    <file name="u16712-4.png" crc="4291720116" ref="smart-shelf"/>
-    <file name="u16712-4_2x.png" crc="95301683" ref="smart-shelf"/>
-    <file name="u16742-4.png" crc="259986206" ref="smart-shelf"/>
-    <file name="u16742-4_2x.png" crc="49501129" ref="smart-shelf"/>
-    <file name="u16760-4.png" crc="4181682427" ref="smart-shelf"/>
-    <file name="u16760-4_2x.png" crc="434497042" ref="smart-shelf"/>
-    <file name="u16778-4.png" crc="384538700" ref="smart-shelf"/>
-    <file name="u16778-4_2x.png" crc="4176680580" ref="smart-shelf"/>
-    <file name="u16608-62.png" crc="3971766938" ref="smart-shelf"/>
-    <file name="u16608-6_2x2.png" crc="348027307" ref="smart-shelf"/>
-    <file name="u16633-42.png" crc="3925632153" ref="smart-shelf"/>
-    <file name="u16633-4_2x2.png" crc="4040588482" ref="smart-shelf"/>
-    <file name="u16700-42.png" crc="305277573" ref="smart-shelf"/>
-    <file name="u16700-4_2x2.png" crc="454165032" ref="smart-shelf"/>
-    <file name="u16712-42.png" crc="4207455303" ref="smart-shelf"/>
-    <file name="u16712-4_2x2.png" crc="246379745" ref="smart-shelf"/>
-    <file name="u16742-42.png" crc="3768820594" ref="smart-shelf"/>
-    <file name="u16742-4_2x2.png" crc="66134675" ref="smart-shelf"/>
-    <file name="u16760-42.png" crc="4101254016" ref="smart-shelf"/>
-    <file name="u16760-4_2x2.png" crc="3866550445" ref="smart-shelf"/>
-    <file name="u16778-42.png" crc="4142058558" ref="smart-shelf"/>
-    <file name="u16778-4_2x2.png" crc="487095956" ref="smart-shelf"/>
-    <file name="u16608-63.png" crc="38248232" ref="smart-shelf"/>
-    <file name="u16608-6_2x3.png" crc="3847013634" ref="smart-shelf"/>
-    <file name="u16633-43.png" crc="4242156386" ref="smart-shelf"/>
-    <file name="u16633-4_2x3.png" crc="3939450973" ref="smart-shelf"/>
-    <file name="u16700-43.png" crc="3893931536" ref="smart-shelf"/>
-    <file name="u16700-4_2x3.png" crc="82147149" ref="smart-shelf"/>
-    <file name="u16712-43.png" crc="4263689778" ref="smart-shelf"/>
-    <file name="u16712-4_2x3.png" crc="406294416" ref="smart-shelf"/>
-    <file name="u16742-43.png" crc="480676435" ref="smart-shelf"/>
-    <file name="u16742-4_2x3.png" crc="480683556" ref="smart-shelf"/>
-    <file name="u16760-43.png" crc="4108186414" ref="smart-shelf"/>
-    <file name="u16760-4_2x3.png" crc="4029275887" ref="smart-shelf"/>
-    <file name="u16778-43.png" crc="331006650" ref="smart-shelf"/>
-    <file name="u16778-4_2x3.png" crc="535682939" ref="smart-shelf"/>
-    <file name="u16608-64.png" crc="3763407527" ref="smart-shelf"/>
-    <file name="u16608-6_2x4.png" crc="3967706879" ref="smart-shelf"/>
-    <file name="u16633-44.png" crc="411444775" ref="smart-shelf"/>
-    <file name="u16633-4_2x4.png" crc="4014020982" ref="smart-shelf"/>
-    <file name="u16700-44.png" crc="4055978747" ref="smart-shelf"/>
-    <file name="u16700-4_2x4.png" crc="4120033882" ref="smart-shelf"/>
-    <file name="u16712-44.png" crc="3979470746" ref="smart-shelf"/>
-    <file name="u16712-4_2x4.png" crc="4080229922" ref="smart-shelf"/>
-    <file name="u16742-44.png" crc="352536190" ref="smart-shelf"/>
-    <file name="u16742-4_2x4.png" crc="105148061" ref="smart-shelf"/>
-    <file name="u16760-44.png" crc="4245026023" ref="smart-shelf"/>
-    <file name="u16760-4_2x4.png" crc="134970531" ref="smart-shelf"/>
-    <file name="u16778-44.png" crc="3786215323" ref="smart-shelf"/>
-    <file name="u16778-4_2x4.png" crc="474405751" ref="smart-shelf"/>
-    <file name="u16608-65.png" crc="384109642" ref="smart-shelf"/>
-    <file name="u16608-6_2x5.png" crc="461934106" ref="smart-shelf"/>
-    <file name="u16633-45.png" crc="3899316061" ref="smart-shelf"/>
-    <file name="u16633-4_2x5.png" crc="82482698" ref="smart-shelf"/>
-    <file name="u16700-45.png" crc="269038314" ref="smart-shelf"/>
-    <file name="u16700-4_2x5.png" crc="109254080" ref="smart-shelf"/>
-    <file name="u16712-45.png" crc="197755286" ref="smart-shelf"/>
-    <file name="u16712-4_2x5.png" crc="507933976" ref="smart-shelf"/>
-    <file name="u16742-45.png" crc="306866975" ref="smart-shelf"/>
-    <file name="u16742-4_2x5.png" crc="263188709" ref="smart-shelf"/>
-    <file name="u16760-45.png" crc="4025821497" ref="smart-shelf"/>
-    <file name="u16760-4_2x5.png" crc="62932389" ref="smart-shelf"/>
-    <file name="u16778-45.png" crc="4290265462" ref="smart-shelf"/>
-    <file name="u16778-4_2x5.png" crc="273206166" ref="smart-shelf"/>
-    <file name="u16608-66.png" crc="4006807543" ref="smart-shelf"/>
-    <file name="u16608-6_2x6.png" crc="3986998855" ref="smart-shelf"/>
-    <file name="u16633-46.png" crc="4155428248" ref="smart-shelf"/>
-    <file name="u16633-4_2x6.png" crc="3944849236" ref="smart-shelf"/>
-    <file name="u16700-46.png" crc="497235067" ref="smart-shelf"/>
-    <file name="u16700-4_2x6.png" crc="3915315091" ref="smart-shelf"/>
-    <file name="u16712-46.png" crc="343619065" ref="smart-shelf"/>
-    <file name="u16712-4_2x6.png" crc="473870045" ref="smart-shelf"/>
-    <file name="u16742-46.png" crc="287178324" ref="smart-shelf"/>
-    <file name="u16742-4_2x6.png" crc="3883585007" ref="smart-shelf"/>
-    <file name="u16760-46.png" crc="4271759069" ref="smart-shelf"/>
-    <file name="u16760-4_2x6.png" crc="205826966" ref="smart-shelf"/>
-    <file name="u16778-46.png" crc="143701366" ref="smart-shelf"/>
-    <file name="u16778-4_2x6.png" crc="73670025" ref="smart-shelf"/>
-    <file name="u17458-4.png" crc="285587944" ref="celkon"/>
-    <file name="u17458-4_2x.png" crc="270692944" ref="celkon"/>
-    <file name="we-from-celkon4.gif" crc="3960945607" seo="true" ref="celkon">
-      <caption webpage="celkon" alt=""/>
-      <caption webpage="celkon" alt=""/>
-      <caption webpage="celkon" alt=""/>
-      <caption webpage="celkon" alt=""/>
-      <caption webpage="celkon" alt=""/>
-      <caption webpage="celkon" alt=""/>
+    <file name="back102x97_2x.png" crc="3985091775" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+      <caption webpage="everydays" alt=""/>
     </file>
-    <file name="u17458-42.png" crc="285587944" ref="celkon"/>
-    <file name="u17458-4_2x2.png" crc="270692944" ref="celkon"/>
-    <file name="u17458-43.png" crc="58645845" ref="celkon"/>
-    <file name="u17458-4_2x3.png" crc="4013900498" ref="celkon"/>
-    <file name="u17458-44.png" crc="281699912" ref="celkon"/>
-    <file name="u17458-4_2x4.png" crc="3790726162" ref="celkon"/>
-    <file name="u17458-45.png" crc="4216241880" ref="celkon"/>
-    <file name="u17458-4_2x5.png" crc="3822481912" ref="celkon"/>
-    <file name="u17458-46.png" crc="520708402" ref="celkon"/>
-    <file name="u17458-4_2x6.png" crc="3823933611" ref="celkon"/>
     <file name="page-under-construction2.jpg" crc="117845233" seo="true" ref="stay-tuned!">
       <caption webpage="stay-tuned!" alt=""/>
     </file>
-    <file name="back180x173.png" crc="208070722" seo="true" ref="stay-tuned!">
+    <file name="back180x173.png" crc="321393893" seo="true" ref="stay-tuned!">
       <caption webpage="stay-tuned!" alt=""/>
     </file>
-    <file name="back_2x.png" crc="438811086" seo="true" ref="stay-tuned!">
+    <file name="hololens.jpg" crc="4236491673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hololens-u11537-fr.jpg" crc="3859488980" ref="index"/>
+    <file name="hololens-u11537-fr_2x.jpg" crc="4100488558" ref="index"/>
+    <file name="hololens2.jpg" crc="419026621" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hololens_2x.jpg" crc="4236491673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hololens-u11537-fr2.jpg" crc="183046471" ref="index"/>
+    <file name="hololens-u11537-fr_2x2.jpg" crc="131275857" ref="index"/>
+    <file name="back86x83.png" crc="4205782236" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back86x83_2x.png" crc="480456105" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back65x62.png" crc="410420272" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back65x62_2x.png" crc="4259255836" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back43x42.png" crc="220842136" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back43x42_2x.png" crc="4205782236" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back35x33.png" crc="518277148" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back35x33_2x.png" crc="3858549285" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back22x21.png" crc="426104965" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back22x21_2x.png" crc="220842136" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back15x14.png" crc="333930633" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="back15x14_2x.png" crc="83783434" seo="true" ref="everydays">
+      <caption webpage="everydays" alt=""/>
+    </file>
+    <file name="u24942-9.png" crc="235317084" ref="smart-shelf"/>
+    <file name="u24942-9_2x.png" crc="4132070282" ref="smart-shelf"/>
+    <file name="1.jpg" crc="362364306" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="clutter.gif" crc="3864910325" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="2.jpg" crc="352567431" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="3.jpg" crc="215017155" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3765027108" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5.jpg" crc="178239861" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="6.jpg" crc="367776094" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="u24942-92.png" crc="3996922334" ref="smart-shelf"/>
+    <file name="u24942-9_2x2.png" crc="282987054" ref="smart-shelf"/>
+    <file name="1-crop-u24973.jpg" crc="3852131128" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4-crop-u25710.jpg" crc="230568496" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5-crop-u25753.jpg" crc="3821706559" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="u24942-93.png" crc="3830297910" ref="smart-shelf"/>
+    <file name="u24942-9_2x3.png" crc="84912423" ref="smart-shelf"/>
+    <file name="11199x1632.jpg" crc="431176201" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="21199x2552.jpg" crc="4047046119" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="31199x2431.jpg" crc="4033301617" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4-crop-u257102.jpg" crc="4188631743" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5-crop-u257532.jpg" crc="4279238975" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="61199x1074.jpg" crc="3878974833" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="u24942-94.png" crc="4071514740" ref="smart-shelf"/>
+    <file name="u24942-9_2x4.png" crc="499727271" ref="smart-shelf"/>
+    <file name="1799x1088.jpg" crc="4138312431" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="2799x1701.jpg" crc="4005110375" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="3799x1621.jpg" crc="3958677242" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4-crop-u257103.jpg" crc="221519136" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5-crop-u257533.jpg" crc="410724153" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="6799x716.jpg" crc="267693824" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="u24942-95.png" crc="261023894" ref="smart-shelf"/>
+    <file name="u24942-9_2x5.png" crc="3906374424" ref="smart-shelf"/>
+    <file name="1640x871.jpg" crc="4113818024" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="2640x1361.jpg" crc="98050828" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="3640x1297.jpg" crc="324059036" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4-crop-u257104.jpg" crc="4159141214" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5640x1376.jpg" crc="3982866396" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="6640x573.jpg" crc="4104799323" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="u24942-96.png" crc="3968492471" ref="smart-shelf"/>
+    <file name="u24942-9_2x6.png" crc="310630674" ref="smart-shelf"/>
+    <file name="1400x544.jpg" crc="4210971108" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="2400x851.jpg" crc="4115370026" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="3400x811.jpg" crc="3825976723" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4400x912.jpg" crc="275702689" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5400x860.jpg" crc="4209933079" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="6400x358.jpg" crc="3975156154" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="u24942-97.png" crc="4001648824" ref="smart-shelf"/>
+    <file name="u24942-9_2x7.png" crc="49677197" ref="smart-shelf"/>
+    <file name="1267x363.jpg" crc="4255194615" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="2267x567.jpg" crc="178979623" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="3267x541.jpg" crc="406838280" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="4267x608.jpg" crc="265684209" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="5267x573.jpg" crc="4005159457" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="6267x239.jpg" crc="3980410877" seo="true" ref="smart-shelf">
+      <caption webpage="smart-shelf" alt=""/>
+    </file>
+    <file name="back180x173_2x.png" crc="3936790648" seo="true" ref="stay-tuned!">
       <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="page-under-construction-small768x480.jpg" crc="3834524406" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="page-under-construction-mobile768x1366.jpg" crc="4213860678" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="back55x52.png" crc="33386772" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="back55x52_2x.png" crc="69245869" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="page-under-construction-mobile480x854.jpg" crc="3796695329" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="back34x33.png" crc="4251987465" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="back34x33_2x.png" crc="3906475796" seo="true" ref="stay-tuned!">
+      <caption webpage="stay-tuned!" alt=""/>
+    </file>
+    <file name="u24089-4.png" crc="138665537" ref="user-testing-for-physical-spaces"/>
+    <file name="u24089-4_2x.png" crc="407897724" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6.png" crc="3860051629" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6_2x.png" crc="278229066" ref="user-testing-for-physical-spaces"/>
+    <file name="user testing of physical spaces by siyan k s1870x2839.jpg" crc="4164561867" seo="true" ref="user-testing-for-physical-spaces">
+      <caption webpage="user-testing-for-physical-spaces" alt=""/>
+    </file>
+    <file name="u24089-42.png" crc="355975121" ref="user-testing-for-physical-spaces"/>
+    <file name="u24089-4_2x2.png" crc="4279975210" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-62.png" crc="3947866959" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6_2x2.png" crc="4288990739" ref="user-testing-for-physical-spaces"/>
+    <file name="user testing of physical spaces by siyan k s1403x2130.jpg" crc="4164561867" seo="true" ref="user-testing-for-physical-spaces">
+      <caption webpage="user-testing-for-physical-spaces" alt=""/>
+    </file>
+    <file name="u24089-43.png" crc="4123432087" ref="user-testing-for-physical-spaces"/>
+    <file name="u24089-4_2x3.png" crc="4052016802" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-63.png" crc="4044644257" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6_2x3.png" crc="83063974" ref="user-testing-for-physical-spaces"/>
+    <file name="user testing of physical spaces by siyan k s935x1420.jpg" crc="4081613893" seo="true" ref="user-testing-for-physical-spaces">
+      <caption webpage="user-testing-for-physical-spaces" alt=""/>
+    </file>
+    <file name="u24089-44.png" crc="456517113" ref="user-testing-for-physical-spaces"/>
+    <file name="u24089-4_2x4.png" crc="3882267052" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-64.png" crc="82682232" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6_2x4.png" crc="330814224" ref="user-testing-for-physical-spaces"/>
+    <file name="user testing of physical spaces by siyan k s748x1136.jpg" crc="16216792" seo="true" ref="user-testing-for-physical-spaces">
+      <caption webpage="user-testing-for-physical-spaces" alt=""/>
+    </file>
+    <file name="u24089-45.png" crc="394133521" ref="user-testing-for-physical-spaces"/>
+    <file name="u24089-4_2x5.png" crc="46930242" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-65.png" crc="4233099906" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6_2x5.png" crc="4106956402" ref="user-testing-for-physical-spaces"/>
+    <file name="user testing of physical spaces by siyan k s468x710.jpg" crc="207405256" seo="true" ref="user-testing-for-physical-spaces">
+      <caption webpage="user-testing-for-physical-spaces" alt=""/>
+    </file>
+    <file name="u24089-46.png" crc="4287192577" ref="user-testing-for-physical-spaces"/>
+    <file name="u24089-4_2x6.png" crc="369975604" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-66.png" crc="275672960" ref="user-testing-for-physical-spaces"/>
+    <file name="u24092-6_2x6.png" crc="437417906" ref="user-testing-for-physical-spaces"/>
+    <file name="user testing of physical spaces by siyan k s312x474.jpg" crc="486232795" seo="true" ref="user-testing-for-physical-spaces">
+      <caption webpage="user-testing-for-physical-spaces" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4171077956" seo="true" mt="1524001490833" redirect="true"/>
-  <file name="everydays.html" crc="3870389959" seo="true" mt="1524001490833" redirect="true"/>
-  <file name="photography.html" crc="4155239891" seo="true" mt="1524001490833" redirect="true"/>
-  <file name="videography.html" crc="4197980115" seo="true" mt="1524001490833" redirect="true"/>
-  <file name="smart-shelf.html" crc="4190123059" seo="true" mt="1524001490833" redirect="true"/>
-  <file name="celkon.html" crc="463294738" seo="true" mt="1524001490833" redirect="true"/>
-  <file name="stay-tuned!.html" crc="2865157" seo="true" mt="1524001490833" redirect="true"/>
+  <file name="index.html" crc="3995158649" seo="true" mt="1524074559209" redirect="true"/>
+  <file name="everydays.html" crc="4172984362" seo="true" mt="1524074514173" redirect="true"/>
+  <file name="photography.html" crc="4191861163" seo="true" mt="1524074514173" redirect="true"/>
+  <file name="videography.html" crc="27016199" seo="true" mt="1524074514173" redirect="true"/>
+  <file name="smart-shelf.html" crc="80935472" seo="true" mt="1524074514173" redirect="true"/>
+  <file name="stay-tuned!.html" crc="3988792335" seo="true" mt="1524073780664" redirect="true"/>
+  <file name="user-testing-for-physical-spaces.html" crc="65354009" seo="true" mt="1524074514173" redirect="true"/>
 </manifest>
