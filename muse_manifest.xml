@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524256752844">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524263250936">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="photography.css" crc="59708949" ref="photography"/>
     <file name="nomq_photography.css" crc="3851338223" ref="photography"/>
-    <file name="index.css" crc="275546287" ref="index"/>
-    <file name="nomq_index.css" crc="372994733" ref="index"/>
+    <file name="index.css" crc="4040788244" ref="index"/>
+    <file name="nomq_index.css" crc="518233746" ref="index"/>
     <file name="stay-tuned_.css" crc="4152684102" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="136825898" ref="stay-tuned!"/>
     <file name="smart-shelf.css" crc="40175442" ref="smart-shelf"/>
     <file name="nomq_smart-shelf.css" crc="3901003504" ref="smart-shelf"/>
-    <file name="everydays.css" crc="3867726062" ref="everydays"/>
-    <file name="nomq_everydays.css" crc="69328372" ref="everydays"/>
+    <file name="everydays.css" crc="314991104" ref="everydays"/>
+    <file name="nomq_everydays.css" crc="351068697" ref="everydays"/>
     <file name="master_stay-tuned.css" crc="206329819" ref="stay-tuned!"/>
     <file name="nomq_preview_master_stay-tuned.css" crc="4168523958" ref="stay-tuned!"/>
     <file name="user-testing-for-physical-spaces.css" crc="502498981" ref="user-testing-for-physical-spaces"/>
@@ -19,8 +19,8 @@
     <file name="nomq_shower-gel-packaging.css" crc="114042137" ref="shower-gel-packaging"/>
     <file name="celkon---branding_-packaging-and-retail-display.css" crc="3957027227" ref="celkon---branding,-packaging-and-retail-display"/>
     <file name="nomq_celkon---branding_-packaging-and-retail-display.css" crc="4051143751" ref="celkon---branding,-packaging-and-retail-display"/>
-    <file name="movies.css" crc="59708949" ref="movies"/>
-    <file name="nomq_movies.css" crc="3851338223" ref="movies"/>
+    <file name="movies.css" crc="4132860084" ref="movies"/>
+    <file name="nomq_movies.css" crc="3951721324" ref="movies"/>
     <file name="tourism-promotion-in-metro-stations.css" crc="3775211794" ref="tourism-promotion-in-metro-stations"/>
     <file name="nomq_tourism-promotion-in-metro-stations.css" crc="228370290" ref="tourism-promotion-in-metro-stations"/>
   </folder>
@@ -43,7 +43,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="everydays"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4104844694" ref="index:everydays"/>
+    <file name="favicon.ico" crc="4104844694" ref="index"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1412,20 +1412,20 @@
     <file name="u30055-4_2x2.png" crc="4174475751" ref="everydays"/>
     <file name="u30052-42.png" crc="4222833523" ref="everydays"/>
     <file name="u30052-4_2x2.png" crc="180687073" ref="everydays"/>
-    <file name="u30464-42.png" crc="95173895" ref="everydays"/>
-    <file name="u30464-4_2x2.png" crc="4146304909" ref="everydays"/>
-    <file name="u30936-42.png" crc="4070526683" ref="everydays"/>
-    <file name="u30936-4_2x2.png" crc="4122629667" ref="everydays"/>
-    <file name="u30967-42.png" crc="4059206181" ref="everydays"/>
-    <file name="u30967-4_2x2.png" crc="206535209" ref="everydays"/>
-    <file name="u30998-42.png" crc="4219839474" ref="everydays"/>
-    <file name="u30998-4_2x2.png" crc="397197389" ref="everydays"/>
-    <file name="u31029-42.png" crc="162037090" ref="everydays"/>
-    <file name="u31029-4_2x2.png" crc="4228034958" ref="everydays"/>
-    <file name="u31060-42.png" crc="141600521" ref="everydays"/>
-    <file name="u31060-4_2x2.png" crc="4287152146" ref="everydays"/>
-    <file name="u31091-42.png" crc="342224844" ref="everydays"/>
-    <file name="u31091-4_2x2.png" crc="144541198" ref="everydays"/>
+    <file name="u30464-42.png" crc="4195292849" ref="everydays"/>
+    <file name="u30464-4_2x2.png" crc="4171754289" ref="everydays"/>
+    <file name="u30936-42.png" crc="72528038" ref="everydays"/>
+    <file name="u30936-4_2x2.png" crc="4239674908" ref="everydays"/>
+    <file name="u30967-42.png" crc="36369973" ref="everydays"/>
+    <file name="u30967-4_2x2.png" crc="4064996193" ref="everydays"/>
+    <file name="u30998-42.png" crc="247484343" ref="everydays"/>
+    <file name="u30998-4_2x2.png" crc="104607866" ref="everydays"/>
+    <file name="u31029-42.png" crc="3941009494" ref="everydays"/>
+    <file name="u31029-4_2x2.png" crc="4194053301" ref="everydays"/>
+    <file name="u31060-42.png" crc="3960508683" ref="everydays"/>
+    <file name="u31060-4_2x2.png" crc="3866771179" ref="everydays"/>
+    <file name="u31091-42.png" crc="174959535" ref="everydays"/>
+    <file name="u31091-4_2x2.png" crc="4122239981" ref="everydays"/>
     <file name="back-375x72.png" crc="4254868164" seo="true" ref="everydays">
       <caption webpage="everydays" alt=""/>
     </file>
@@ -1548,38 +1548,38 @@
     <file name="u30055-4_2x3.png" crc="3994453291" ref="everydays"/>
     <file name="u30052-43.png" crc="4209939086" ref="everydays"/>
     <file name="u30052-4_2x3.png" crc="129727945" ref="everydays"/>
-    <file name="u30464-43.png" crc="517061867" ref="everydays"/>
-    <file name="u30464-4_2x3.png" crc="4176875815" ref="everydays"/>
-    <file name="u30936-43.png" crc="164193146" ref="everydays"/>
-    <file name="u30936-4_2x3.png" crc="531283428" ref="everydays"/>
-    <file name="u30967-43.png" crc="426946327" ref="everydays"/>
-    <file name="u30967-4_2x3.png" crc="4253453180" ref="everydays"/>
-    <file name="u30998-43.png" crc="215311532" ref="everydays"/>
-    <file name="u30998-4_2x3.png" crc="4144566662" ref="everydays"/>
-    <file name="u31029-43.png" crc="217178095" ref="everydays"/>
-    <file name="u31029-4_2x3.png" crc="532202813" ref="everydays"/>
-    <file name="u31060-43.png" crc="285536089" ref="everydays"/>
-    <file name="u31060-4_2x3.png" crc="3887535881" ref="everydays"/>
-    <file name="u31091-43.png" crc="373706278" ref="everydays"/>
-    <file name="u31091-4_2x3.png" crc="153289502" ref="everydays"/>
+    <file name="u30464-43.png" crc="462767479" ref="everydays"/>
+    <file name="u30464-4_2x3.png" crc="3920760113" ref="everydays"/>
+    <file name="u30936-43.png" crc="3811693217" ref="everydays"/>
+    <file name="u30936-4_2x3.png" crc="3774065635" ref="everydays"/>
+    <file name="u30967-43.png" crc="408552151" ref="everydays"/>
+    <file name="u30967-4_2x3.png" crc="379166570" ref="everydays"/>
+    <file name="u30998-43.png" crc="4152948779" ref="everydays"/>
+    <file name="u30998-4_2x3.png" crc="4228297319" ref="everydays"/>
+    <file name="u31029-43.png" crc="402455964" ref="everydays"/>
+    <file name="u31029-4_2x3.png" crc="4099559314" ref="everydays"/>
+    <file name="u31060-43.png" crc="4289555086" ref="everydays"/>
+    <file name="u31060-4_2x3.png" crc="4222126945" ref="everydays"/>
+    <file name="u31091-43.png" crc="263531660" ref="everydays"/>
+    <file name="u31091-4_2x3.png" crc="126968380" ref="everydays"/>
     <file name="back-350x48.png" crc="4254868164" seo="true" ref="everydays">
       <caption webpage="everydays" alt=""/>
     </file>
     <file name="everydays-siyan-website768x432.jpg" crc="4237375389" seo="true" ref="everydays">
       <caption webpage="everydays" alt=""/>
     </file>
-    <file name="u295184.png" crc="4140475247" ref="everydays"/>
-    <file name="u29518_2x4.png" crc="3973088916" ref="everydays"/>
-    <file name="u29518-r4.png" crc="410781039" ref="everydays"/>
-    <file name="u29518-r_2x4.png" crc="155678" ref="everydays"/>
-    <file name="u29518-a4.png" crc="4012481801" ref="everydays"/>
-    <file name="u29518-a_2x4.png" crc="4057587140" ref="everydays"/>
-    <file name="u295204.png" crc="3795679639" ref="everydays"/>
-    <file name="u29520_2x4.png" crc="2853841" ref="everydays"/>
-    <file name="u29520-r4.png" crc="3994567556" ref="everydays"/>
-    <file name="u29520-r_2x4.png" crc="503487542" ref="everydays"/>
-    <file name="u29520-a4.png" crc="126320434" ref="everydays"/>
-    <file name="u29520-a_2x4.png" crc="4092348505" ref="everydays"/>
+    <file name="u295184.png" crc="3970905653" ref="everydays"/>
+    <file name="u29518_2x4.png" crc="483839128" ref="everydays"/>
+    <file name="u29518-r4.png" crc="273628420" ref="everydays"/>
+    <file name="u29518-r_2x4.png" crc="3812650555" ref="everydays"/>
+    <file name="u29518-a4.png" crc="403247563" ref="everydays"/>
+    <file name="u29518-a_2x4.png" crc="3941469227" ref="everydays"/>
+    <file name="u295204.png" crc="511139190" ref="everydays"/>
+    <file name="u29520_2x4.png" crc="3916588275" ref="everydays"/>
+    <file name="u29520-r4.png" crc="255107137" ref="everydays"/>
+    <file name="u29520-r_2x4.png" crc="3897459537" ref="everydays"/>
+    <file name="u29520-a4.png" crc="4065507025" ref="everydays"/>
+    <file name="u29520-a_2x4.png" crc="4250288630" ref="everydays"/>
     <file name="u32622-44.png" crc="80464775" ref="everydays"/>
     <file name="u32622-4_2x4.png" crc="381951791" ref="everydays"/>
     <file name="int 1 siyan-crop-u326384.jpg" crc="4208787631" seo="true" ref="everydays">
@@ -1684,20 +1684,20 @@
     <file name="u30055-4_2x4.png" crc="381951791" ref="everydays"/>
     <file name="u30052-44.png" crc="513505823" ref="everydays"/>
     <file name="u30052-4_2x4.png" crc="324036493" ref="everydays"/>
-    <file name="u30464-44.png" crc="523776768" ref="everydays"/>
-    <file name="u30464-4_2x4.png" crc="505050116" ref="everydays"/>
-    <file name="u30936-44.png" crc="3898083383" ref="everydays"/>
-    <file name="u30936-4_2x4.png" crc="390464362" ref="everydays"/>
-    <file name="u30967-44.png" crc="109262394" ref="everydays"/>
-    <file name="u30967-4_2x4.png" crc="3949268356" ref="everydays"/>
-    <file name="u30998-44.png" crc="4033778317" ref="everydays"/>
-    <file name="u30998-4_2x4.png" crc="679497" ref="everydays"/>
-    <file name="u31029-44.png" crc="3861001251" ref="everydays"/>
-    <file name="u31029-4_2x4.png" crc="232070452" ref="everydays"/>
-    <file name="u31060-44.png" crc="352677615" ref="everydays"/>
-    <file name="u31060-4_2x4.png" crc="3983468805" ref="everydays"/>
-    <file name="u31091-44.png" crc="434381914" ref="everydays"/>
-    <file name="u31091-4_2x4.png" crc="59778720" ref="everydays"/>
+    <file name="u30464-44.png" crc="3998706738" ref="everydays"/>
+    <file name="u30464-4_2x4.png" crc="288146876" ref="everydays"/>
+    <file name="u30936-44.png" crc="3972156125" ref="everydays"/>
+    <file name="u30936-4_2x4.png" crc="4242281416" ref="everydays"/>
+    <file name="u30967-44.png" crc="4251017933" ref="everydays"/>
+    <file name="u30967-4_2x4.png" crc="366060514" ref="everydays"/>
+    <file name="u30998-44.png" crc="3913492703" ref="everydays"/>
+    <file name="u30998-4_2x4.png" crc="99716544" ref="everydays"/>
+    <file name="u31029-44.png" crc="100706225" ref="everydays"/>
+    <file name="u31029-4_2x4.png" crc="441868605" ref="everydays"/>
+    <file name="u31060-44.png" crc="445268810" ref="everydays"/>
+    <file name="u31060-4_2x4.png" crc="290405362" ref="everydays"/>
+    <file name="u31091-44.png" crc="285072671" ref="everydays"/>
+    <file name="u31091-4_2x4.png" crc="4262837244" ref="everydays"/>
     <file name="back-340x39.png" crc="4254868164" seo="true" ref="everydays">
       <caption webpage="everydays" alt=""/>
     </file>
@@ -1961,14 +1961,26 @@
     <file name="u32621-4_2x4.png" crc="48784881" ref="everydays"/>
     <file name="u30054-44.png" crc="466242709" ref="everydays"/>
     <file name="u30054-4_2x4.png" crc="48784881" ref="everydays"/>
+    <file name="u34948-10.png" crc="3955132105" ref="movies"/>
+    <file name="u34948-10_2x.png" crc="209329254" ref="movies"/>
+    <file name="u34948-102.png" crc="4058539123" ref="movies"/>
+    <file name="u34948-10_2x2.png" crc="4224057293" ref="movies"/>
+    <file name="u34948-103.png" crc="3814188461" ref="movies"/>
+    <file name="u34948-10_2x3.png" crc="60702143" ref="movies"/>
+    <file name="u34948-104.png" crc="283023122" ref="movies"/>
+    <file name="u34948-10_2x4.png" crc="4058345067" ref="movies"/>
+    <file name="u34948-105.png" crc="196959392" ref="movies"/>
+    <file name="u34948-10_2x5.png" crc="150324280" ref="movies"/>
+    <file name="u34948-106.png" crc="358003789" ref="movies"/>
+    <file name="u34948-10_2x6.png" crc="4072479681" ref="movies"/>
   </folder>
-  <file name="index.html" crc="218982673" seo="true" mt="1524254733364" redirect="true"/>
-  <file name="everydays.html" crc="4031889499" seo="true" mt="1524256670323" redirect="true"/>
+  <file name="index.html" crc="233203353" seo="true" mt="1524263135610" redirect="true"/>
+  <file name="everydays.html" crc="317591417" seo="true" mt="1524258071640" redirect="true"/>
   <file name="photography.html" crc="4280977090" seo="true" mt="1524182570601" redirect="false"/>
   <file name="smart-shelf.html" crc="4133293319" seo="true" mt="1524184150157" redirect="true"/>
   <file name="stay-tuned!.html" crc="3988792335" seo="true" mt="1524073780664" redirect="true"/>
   <file name="user-testing-for-physical-spaces.html" crc="3762748963" seo="true" mt="1524183325152" redirect="true"/>
-  <file name="movies.html" crc="323658185" seo="true" mt="1524182570601" redirect="false"/>
+  <file name="movies.html" crc="467067989" seo="true" mt="1524263248920" redirect="true"/>
   <file name="shower-gel-packaging.html" crc="3817004902" seo="true" mt="1524184378410" redirect="true"/>
   <file name="celkon---branding,-packaging-and-retail-display.html" crc="3835155565" seo="true" mt="1524183505890" redirect="true"/>
   <file name="tourism-promotion-in-metro-stations.html" crc="3980965807" seo="true" mt="1524184297812" redirect="true"/>
