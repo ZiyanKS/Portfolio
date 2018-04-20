@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.siyan.in/index.html</loc>
-    <lastmod>2018-04-19</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -193,100 +193,136 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/photography.html</loc>
+    <loc>http://www.siyan.in/stay-tuned!.html</loc>
     <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back127x121.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back127x121_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction-small.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back102x97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back102x97_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back180x173.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back180x173_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction-small768x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction-mobile768x1366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back55x52.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back55x52_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/page-under-construction-mobile480x854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back34x33.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back34x33_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/videography.html</loc>
-    <lastmod>2018-04-18</lastmod>
+    <loc>http://www.siyan.in/user-testing-for-physical-spaces.html</loc>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s1870x2839.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s1403x2130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s935x1420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s748x1136.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s468x710.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s312x474.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-680x77.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-481x77.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-654x51.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-454x52.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-643x41.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-443x41.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-627x26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-427x26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-618x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-418x18.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.siyan.in/everydays.html</loc>
-    <lastmod>2018-04-18</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back86x83.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back86x83_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back65x62.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back65x62_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back43x42.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back43x42_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back35x33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back35x33_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back22x21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back22x21_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back15x14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back15x14_2x.png</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/photography.html</loc>
+    <lastmod>2018-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.siyan.in/smart-shelf.html</loc>
-    <lastmod>2018-04-19</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back86x83.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back86x83_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back65x62.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back65x62_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back43x42.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back43x42_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back35x33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back35x33_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back22x21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back22x21_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back15x14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back15x14_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/1.jpg</image:loc>
     </image:image>
@@ -407,94 +443,316 @@
     <image:image>
       <image:loc>http://www.siyan.in/images/6267x239.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.siyan.in/stay-tuned!.html</loc>
-    <lastmod>2018-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.siyan.in/images/page-under-construction.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-3105x100.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back127x121.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back127x121_2x.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-379x75.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/page-under-construction-small.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-3135x130.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back102x97.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-353x50.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back102x97_2x.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-390x87.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/page-under-construction2.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-342x40.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back180x173.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-372x70.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back180x173_2x.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-650x48.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/page-under-construction-small768x480.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-650x48_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/page-under-construction-mobile768x1366.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-345x44.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back55x52.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-630x29.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/back55x52_2x.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-630x29_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/page-under-construction-mobile480x854.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back34x33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/back34x33_2x.png</image:loc>
+      <image:loc>http://www.siyan.in/images/back-330x29.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/user-testing-for-physical-spaces.html</loc>
-    <lastmod>2018-04-19</lastmod>
+    <loc>http://www.siyan.in/shower-gel-packaging.html</loc>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s1870x2839.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s1403x2130.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/siyan-fiama-behance-crop-u27091.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s935x1420.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-279x75.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s748x1136.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/siyan-fiama-behance-crop-u270912.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s468x710.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/back-253x50.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/user%20testing%20of%20physical%20spaces%20by%20siyan%20k%20s312x474.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/siyan-fiama-behance-crop-u270913.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-242x40.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-fiama-behance-crop-u270914.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-235x34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-fiama-behance468x1523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-224x23.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-fiama-behance312x1015.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.siyan.in/assets/resume---siyan.pdf</loc>
-    <lastmod>2017-12-15</lastmod>
+    <loc>http://www.siyan.in/celkon---branding,-packaging-and-retail-display.html</loc>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-1-siyan-crop-u27660.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/we-from-celkon4.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-2-siyan.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/we-logo-1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-3-siyan-crop-u27698.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-5104x100.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-5-siyan.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-579x75.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-1-siyan-crop-u276602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-2-siyan1403x268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-3-siyan-crop-u276982.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-578x75.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-5-siyan1403x281.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-553x50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-1-siyan-crop-u276603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-2-siyan935x179.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-3-siyan935x1611.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-552x51.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-5-siyan935x187.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-542x40.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-1-siyan-crop-u276604.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-2-siyan748x143.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-3-siyan748x1289.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-542x41.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-5-siyan748x150.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-540x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-1-siyan468x1155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-2-siyan468x90.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-3-siyan468x806.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-526x26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-5-siyan468x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-527x26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-1-siyan312x770.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-2-siyan312x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-3-siyan312x537.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-518x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/celkon-5-siyan312x63.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/movies.html</loc>
+    <lastmod>2018-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/tourism-promotion-in-metro-stations.html</loc>
+    <lastmod>2018-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2-crop-u28036.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3-crop-u28056.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-179x75.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-11403x4104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2-crop-u280362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3-crop-u280562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-153x50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-1935x2736.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2-crop-u280363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3935x1564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-145x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-1778x2274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2-crop-u280364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3778x1300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-144x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-1748x2189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2-crop-u280365.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3748x1251.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-135x34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-1468x1368.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2468x1610.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3468x782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-130x29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-1312x912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-2312x1073.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/tourism-siyan-3312x522.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.siyan.in/assets/-mr--customer-preloader-v2.mulib</loc>
     <lastmod>2015-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/assets/resume---siyan.pdf</loc>
+    <lastmod>2017-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
