@@ -1277,6 +1277,24 @@
     <lastmod>2018-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-694x90.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-670x67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-647x45.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-638x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-624x23.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/back-616x15.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.siyan.in/tourism-promotion-in-metro-stations.html</loc>

@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524263250936">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524267743898">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="photography.css" crc="59708949" ref="photography"/>
     <file name="nomq_photography.css" crc="3851338223" ref="photography"/>
-    <file name="index.css" crc="4040788244" ref="index"/>
-    <file name="nomq_index.css" crc="518233746" ref="index"/>
+    <file name="index.css" crc="469782502" ref="index"/>
+    <file name="nomq_index.css" crc="4004252668" ref="index"/>
     <file name="stay-tuned_.css" crc="4152684102" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="136825898" ref="stay-tuned!"/>
     <file name="smart-shelf.css" crc="40175442" ref="smart-shelf"/>
@@ -19,8 +19,8 @@
     <file name="nomq_shower-gel-packaging.css" crc="114042137" ref="shower-gel-packaging"/>
     <file name="celkon---branding_-packaging-and-retail-display.css" crc="3957027227" ref="celkon---branding,-packaging-and-retail-display"/>
     <file name="nomq_celkon---branding_-packaging-and-retail-display.css" crc="4051143751" ref="celkon---branding,-packaging-and-retail-display"/>
-    <file name="movies.css" crc="4132860084" ref="movies"/>
-    <file name="nomq_movies.css" crc="3951721324" ref="movies"/>
+    <file name="movies.css" crc="4241515120" ref="movies"/>
+    <file name="nomq_movies.css" crc="3983847466" ref="movies"/>
     <file name="tourism-promotion-in-metro-stations.css" crc="3775211794" ref="tourism-promotion-in-metro-stations"/>
     <file name="nomq_tourism-promotion-in-metro-stations.css" crc="228370290" ref="tourism-promotion-in-metro-stations"/>
   </folder>
@@ -36,14 +36,14 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:everydays:photography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces:movies:shower-gel-packaging:celkon---branding,-packaging-and-retail-display:tourism-promotion-in-metro-stations"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:everydays:photography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces:movies:shower-gel-packaging:celkon---branding,-packaging-and-retail-display:tourism-promotion-in-metro-stations"/>
     <file name="require.js" crc="4157109226" ref="index:everydays:photography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces:movies:shower-gel-packaging:celkon---branding,-packaging-and-retail-display:tourism-promotion-in-metro-stations"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:movies"/>
     <file name="webpro.js" crc="242022427" ref="everydays"/>
     <file name="musewpslideshow.js" crc="457073769" ref="everydays"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="everydays"/>
     <file name="touchswipe.js" crc="4066113679" ref="everydays"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4104844694" ref="index"/>
+    <file name="favicon.ico" crc="4104844694" ref="index:movies"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1961,26 +1961,126 @@
     <file name="u32621-4_2x4.png" crc="48784881" ref="everydays"/>
     <file name="u30054-44.png" crc="466242709" ref="everydays"/>
     <file name="u30054-4_2x4.png" crc="48784881" ref="everydays"/>
-    <file name="u34948-10.png" crc="3955132105" ref="movies"/>
-    <file name="u34948-10_2x.png" crc="209329254" ref="movies"/>
-    <file name="u34948-102.png" crc="4058539123" ref="movies"/>
-    <file name="u34948-10_2x2.png" crc="4224057293" ref="movies"/>
-    <file name="u34948-103.png" crc="3814188461" ref="movies"/>
-    <file name="u34948-10_2x3.png" crc="60702143" ref="movies"/>
-    <file name="u34948-104.png" crc="283023122" ref="movies"/>
-    <file name="u34948-10_2x4.png" crc="4058345067" ref="movies"/>
-    <file name="u34948-105.png" crc="196959392" ref="movies"/>
-    <file name="u34948-10_2x5.png" crc="150324280" ref="movies"/>
-    <file name="u34948-106.png" crc="358003789" ref="movies"/>
-    <file name="u34948-10_2x6.png" crc="4072479681" ref="movies"/>
+    <file name="u34948-10.png" crc="316750611" ref="movies"/>
+    <file name="u34948-10_2x.png" crc="258418717" ref="movies"/>
+    <file name="u34948-102.png" crc="4049979496" ref="movies"/>
+    <file name="u34948-10_2x2.png" crc="174695010" ref="movies"/>
+    <file name="u34948-103.png" crc="418119071" ref="movies"/>
+    <file name="u34948-10_2x3.png" crc="3886132241" ref="movies"/>
+    <file name="u34948-104.png" crc="260726976" ref="movies"/>
+    <file name="u34948-10_2x4.png" crc="350948060" ref="movies"/>
+    <file name="u34948-105.png" crc="3886246512" ref="movies"/>
+    <file name="u34948-10_2x5.png" crc="4173577865" ref="movies"/>
+    <file name="u34948-106.png" crc="268629473" ref="movies"/>
+    <file name="u34948-10_2x6.png" crc="360863275" ref="movies"/>
+    <file name="back-694x90.png" crc="4034072809" seo="true" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="1video siyan.jpg" crc="282833993" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="2video-siyan.jpg" crc="282685192" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="3video siyan.jpg" crc="87980061" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="4video-siyan.jpg" crc="3967874877" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="5video-siyan.jpg" crc="3906291062" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="u35146-4.png" crc="3936040202" ref="movies"/>
+    <file name="u35146-4_2x.png" crc="3995324349" ref="movies"/>
+    <file name="back-670x67.png" crc="4034072809" seo="true" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="u35146-42.png" crc="131509678" ref="movies"/>
+    <file name="u35146-4_2x2.png" crc="114125529" ref="movies"/>
+    <file name="back-647x45.png" crc="4034072809" seo="true" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="1video siyan2.jpg" crc="222026470" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="1video siyan_2x.jpg" crc="282833993" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="2video-siyan2.jpg" crc="3949568784" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="2video-siyan_2x.jpg" crc="282685192" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="3video siyan2.jpg" crc="252652293" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="3video siyan_2x.jpg" crc="87980061" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="4video-siyan2.jpg" crc="178590543" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="4video-siyan_2x.jpg" crc="3967874877" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="5video-siyan2.jpg" crc="412775343" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="5video-siyan_2x.jpg" crc="3906291062" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="u35146-43.png" crc="215192384" ref="movies"/>
+    <file name="u35146-4_2x3.png" crc="515445583" ref="movies"/>
+    <file name="back-638x36.png" crc="4034072809" seo="true" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="1video siyan-u35068-fr_2x.jpg" crc="488332451" ref="movies"/>
+    <file name="2video-siyan-u35082-fr_2x.jpg" crc="507487303" ref="movies"/>
+    <file name="3video siyan-u35094-fr_2x.jpg" crc="4110120215" ref="movies"/>
+    <file name="4video-siyan-u35097-fr_2x.jpg" crc="28326317" ref="movies"/>
+    <file name="5video-siyan-u35100-fr_2x.jpg" crc="234227011" ref="movies"/>
+    <file name="u35146-44.png" crc="3795467806" ref="movies"/>
+    <file name="u35146-4_2x4.png" crc="276577993" ref="movies"/>
+    <file name="back-624x23.png" crc="3949039117" seo="true" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="1video siyan-u35068-fr.jpg" crc="3761036012" ref="movies"/>
+    <file name="1video siyan-u35068-fr_2x2.jpg" crc="222026470" ref="movies"/>
+    <file name="2video-siyan-u35082-fr.jpg" crc="4145749835" ref="movies"/>
+    <file name="2video-siyan-u35082-fr_2x2.jpg" crc="3949568784" ref="movies"/>
+    <file name="3video siyan-u35094-fr.jpg" crc="4139597697" ref="movies"/>
+    <file name="3video siyan-u35094-fr_2x2.jpg" crc="252652293" ref="movies"/>
+    <file name="4video-siyan-u35097-fr.jpg" crc="321955891" ref="movies"/>
+    <file name="4video-siyan-u35097-fr_2x2.jpg" crc="178590543" ref="movies"/>
+    <file name="5video-siyan-u35100-fr.jpg" crc="3855606655" ref="movies"/>
+    <file name="5video-siyan-u35100-fr_2x2.jpg" crc="412775343" ref="movies"/>
+    <file name="u35146-45.png" crc="4287957951" ref="movies"/>
+    <file name="u35146-4_2x5.png" crc="307721630" ref="movies"/>
+    <file name="back-616x15.png" crc="497187420" seo="true" ref="movies">
+      <caption webpage="movies" alt=""/>
+    </file>
+    <file name="1video siyan-u35068-fr2.jpg" crc="4060457764" ref="movies"/>
+    <file name="1video siyan-u35068-fr_2x3.jpg" crc="183931807" ref="movies"/>
+    <file name="2video-siyan-u35082-fr2.jpg" crc="530368061" ref="movies"/>
+    <file name="2video-siyan-u35082-fr_2x3.jpg" crc="252756092" ref="movies"/>
+    <file name="3video siyan-u35094-fr2.jpg" crc="3996978" ref="movies"/>
+    <file name="3video siyan-u35094-fr_2x3.jpg" crc="3804365365" ref="movies"/>
+    <file name="4video-siyan-u35097-fr2.jpg" crc="3851008726" ref="movies"/>
+    <file name="4video-siyan-u35097-fr_2x3.jpg" crc="4017575063" ref="movies"/>
+    <file name="5video-siyan-u35100-fr2.jpg" crc="399273195" ref="movies"/>
+    <file name="5video-siyan-u35100-fr_2x3.jpg" crc="515684969" ref="movies"/>
+    <file name="u35146-46.png" crc="275248864" ref="movies"/>
+    <file name="u35146-4_2x6.png" crc="3761876576" ref="movies"/>
   </folder>
-  <file name="index.html" crc="233203353" seo="true" mt="1524263135610" redirect="true"/>
+  <file name="index.html" crc="3869775233" seo="true" mt="1524267600007" redirect="true"/>
   <file name="everydays.html" crc="317591417" seo="true" mt="1524258071640" redirect="true"/>
   <file name="photography.html" crc="4280977090" seo="true" mt="1524182570601" redirect="false"/>
   <file name="smart-shelf.html" crc="4133293319" seo="true" mt="1524184150157" redirect="true"/>
   <file name="stay-tuned!.html" crc="3988792335" seo="true" mt="1524073780664" redirect="true"/>
   <file name="user-testing-for-physical-spaces.html" crc="3762748963" seo="true" mt="1524183325152" redirect="true"/>
-  <file name="movies.html" crc="467067989" seo="true" mt="1524263248920" redirect="true"/>
+  <file name="movies.html" crc="504255529" seo="true" mt="1524267724150" redirect="true"/>
   <file name="shower-gel-packaging.html" crc="3817004902" seo="true" mt="1524184378410" redirect="true"/>
   <file name="celkon---branding,-packaging-and-retail-display.html" crc="3835155565" seo="true" mt="1524183505890" redirect="true"/>
   <file name="tourism-promotion-in-metro-stations.html" crc="3980965807" seo="true" mt="1524184297812" redirect="true"/>
