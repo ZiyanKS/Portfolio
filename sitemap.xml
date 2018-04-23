@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.siyan.in/index.html</loc>
-    <lastmod>2018-04-21</lastmod>
+    <lastmod>2018-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1384,6 +1384,75 @@
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/tourism-siyan-3312x522.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.siyan.in/dhwani.html</loc>
+    <lastmod>2018-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-1-crop-u36060.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-2-crop-u35457.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-3-crop-u35469.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/animation-siyan-3.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/animation-siyan-2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/animation-siyan-4.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-1-crop-u360602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-2-crop-u354572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-31350x2776.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-1-crop-u360603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-2-crop-u354573.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-3900x1851.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-1-crop-u360604.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-2-crop-u354574.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-3748x1539.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-1-crop-u360605.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-2-crop-u354575.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-3468x962.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-1300x1305.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-2-crop-u354576.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/siyan-dhwani-3312x641.jpg</image:loc>
     </image:image>
   </url>
   <url>
