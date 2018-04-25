@@ -1,30 +1,34 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524458991901">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1524668548971">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="photography.css" crc="59708949" ref="photography"/>
-    <file name="nomq_photography.css" crc="3851338223" ref="photography"/>
-    <file name="index.css" crc="4040788244" ref="index"/>
-    <file name="nomq_index.css" crc="518233746" ref="index"/>
+    <file name="photography.css" crc="3906704799" ref="photography"/>
+    <file name="nomq_photography.css" crc="4146473393" ref="photography"/>
+    <file name="index.css" crc="3969723947" ref="index"/>
+    <file name="nomq_index.css" crc="3963836686" ref="index"/>
     <file name="stay-tuned_.css" crc="4152684102" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="136825898" ref="stay-tuned!"/>
-    <file name="smart-shelf.css" crc="40175442" ref="smart-shelf"/>
-    <file name="nomq_smart-shelf.css" crc="3901003504" ref="smart-shelf"/>
-    <file name="everydays.css" crc="314991104" ref="everydays"/>
-    <file name="nomq_everydays.css" crc="351068697" ref="everydays"/>
+    <file name="smart-shelf.css" crc="165455335" ref="smart-shelf"/>
+    <file name="nomq_smart-shelf.css" crc="4258995914" ref="smart-shelf"/>
+    <file name="everydays.css" crc="33405494" ref="everydays"/>
+    <file name="nomq_everydays.css" crc="4268893518" ref="everydays"/>
     <file name="master_stay-tuned.css" crc="206329819" ref="stay-tuned!"/>
     <file name="nomq_preview_master_stay-tuned.css" crc="4168523958" ref="stay-tuned!"/>
-    <file name="user-testing-for-physical-spaces.css" crc="502498981" ref="user-testing-for-physical-spaces"/>
-    <file name="nomq_user-testing-for-physical-spaces.css" crc="3826458494" ref="user-testing-for-physical-spaces"/>
-    <file name="shower-gel-packaging.css" crc="26788452" ref="shower-gel-packaging"/>
-    <file name="nomq_shower-gel-packaging.css" crc="114042137" ref="shower-gel-packaging"/>
-    <file name="celkon---branding_-packaging-and-retail-display.css" crc="3957027227" ref="celkon---branding,-packaging-and-retail-display"/>
-    <file name="nomq_celkon---branding_-packaging-and-retail-display.css" crc="4051143751" ref="celkon---branding,-packaging-and-retail-display"/>
-    <file name="movies.css" crc="4241515120" ref="movies"/>
-    <file name="nomq_movies.css" crc="3983847466" ref="movies"/>
-    <file name="tourism-promotion-in-metro-stations.css" crc="3775211794" ref="tourism-promotion-in-metro-stations"/>
-    <file name="nomq_tourism-promotion-in-metro-stations.css" crc="228370290" ref="tourism-promotion-in-metro-stations"/>
-    <file name="dhwani.css" crc="4107023819" ref="dhwani"/>
-    <file name="nomq_dhwani.css" crc="3778771458" ref="dhwani"/>
+    <file name="user-testing-for-physical-spaces.css" crc="20066744" ref="user-testing-for-physical-spaces"/>
+    <file name="nomq_user-testing-for-physical-spaces.css" crc="257087713" ref="user-testing-for-physical-spaces"/>
+    <file name="shower-gel-packaging.css" crc="3854909300" ref="shower-gel-packaging"/>
+    <file name="nomq_shower-gel-packaging.css" crc="287085099" ref="shower-gel-packaging"/>
+    <file name="celkon---branding_-packaging-and-retail-display.css" crc="414430616" ref="celkon---branding,-packaging-and-retail-display"/>
+    <file name="nomq_celkon---branding_-packaging-and-retail-display.css" crc="365280538" ref="celkon---branding,-packaging-and-retail-display"/>
+    <file name="movies.css" crc="380478083" ref="movies"/>
+    <file name="nomq_movies.css" crc="4063179343" ref="movies"/>
+    <file name="tourism-promotion-in-metro-stations.css" crc="131046189" ref="tourism-promotion-in-metro-stations"/>
+    <file name="nomq_tourism-promotion-in-metro-stations.css" crc="503154350" ref="tourism-promotion-in-metro-stations"/>
+    <file name="dhwani.css" crc="4088551302" ref="dhwani"/>
+    <file name="nomq_dhwani.css" crc="4198243107" ref="dhwani"/>
+    <file name="master_a-master.css" crc="234184419" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="344415538" ref="index"/>
+    <file name="master_projects.css" crc="150366583" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
+    <file name="nomq_preview_master_projects.css" crc="3824530138" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
   </folder>
   <folder name="assets">
     <file name="resume---siyan.pdf" crc="4019545656" seo="true" mt="1513283000000"/>
@@ -45,7 +49,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="everydays"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4104844694" ref="index:movies:dhwani"/>
+    <file name="favicon.ico" crc="4104844694" ref="index"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -2154,15 +2158,15 @@
       <caption webpage="dhwani" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3758903267" seo="true" mt="1524457764387" redirect="true"/>
-  <file name="everydays.html" crc="317591417" seo="true" mt="1524258071640" redirect="true"/>
-  <file name="photography.html" crc="4280977090" seo="true" mt="1524182570601" redirect="false"/>
-  <file name="smart-shelf.html" crc="4133293319" seo="true" mt="1524184150157" redirect="true"/>
+  <file name="index.html" crc="142590905" seo="true" mt="1524668310823" redirect="true"/>
+  <file name="everydays.html" crc="4004853616" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="photography.html" crc="3942461580" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="smart-shelf.html" crc="4222206783" seo="true" mt="1524668343144" redirect="true"/>
   <file name="stay-tuned!.html" crc="3988792335" seo="true" mt="1524073780664" redirect="true"/>
-  <file name="user-testing-for-physical-spaces.html" crc="3762748963" seo="true" mt="1524183325152" redirect="true"/>
-  <file name="movies.html" crc="504255529" seo="true" mt="1524267724150" redirect="true"/>
-  <file name="shower-gel-packaging.html" crc="3817004902" seo="true" mt="1524184378410" redirect="true"/>
-  <file name="celkon---branding,-packaging-and-retail-display.html" crc="3835155565" seo="true" mt="1524183505890" redirect="true"/>
-  <file name="tourism-promotion-in-metro-stations.html" crc="3980965807" seo="true" mt="1524184297812" redirect="true"/>
-  <file name="dhwani.html" crc="4066844443" seo="true" mt="1524458946285" redirect="true"/>
+  <file name="user-testing-for-physical-spaces.html" crc="266077698" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="movies.html" crc="322211221" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="shower-gel-packaging.html" crc="4166386384" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="celkon---branding,-packaging-and-retail-display.html" crc="295432795" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="tourism-promotion-in-metro-stations.html" crc="4059897856" seo="true" mt="1524668343144" redirect="true"/>
+  <file name="dhwani.html" crc="4178564861" seo="true" mt="1524668343144" redirect="true"/>
 </manifest>
