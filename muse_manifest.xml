@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1525979108886">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1525979693442">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="photography.css" crc="4247834138" ref="photography"/>
@@ -7,7 +7,7 @@
     <file name="nomq_index.css" crc="3963836686" ref="index"/>
     <file name="stay-tuned_.css" crc="4152684102" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="136825898" ref="stay-tuned!"/>
-    <file name="smart-shelf.css" crc="248758469" ref="smart-shelf"/>
+    <file name="smart-shelf.css" crc="4221183103" ref="smart-shelf"/>
     <file name="nomq_smart-shelf.css" crc="482486341" ref="smart-shelf"/>
     <file name="everydays.css" crc="332303696" ref="everydays"/>
     <file name="nomq_everydays.css" crc="500091143" ref="everydays"/>
@@ -27,7 +27,7 @@
     <file name="nomq_dhwani.css" crc="292691231" ref="dhwani"/>
     <file name="master_a-master.css" crc="234184419" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="344415538" ref="index"/>
-    <file name="master_projects.css" crc="3852109067" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
+    <file name="master_projects.css" crc="298681692" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
     <file name="nomq_preview_master_projects.css" crc="3824530138" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
   </folder>
   <folder name="assets">
@@ -49,7 +49,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="everydays"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4104844694" ref="index:everydays:dhwani"/>
+    <file name="favicon.ico" crc="4104844694" ref="index:everydays:dhwani:smart-shelf"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -501,7 +501,7 @@
     </file>
     <file name="u24942-92.png" crc="3996922334" ref="smart-shelf"/>
     <file name="u24942-9_2x2.png" crc="282987054" ref="smart-shelf"/>
-    <file name="1-crop-u24973.jpg" crc="3765176822" seo="true" ref="smart-shelf">
+    <file name="1-crop-u24973.jpg" crc="202208358" seo="true" ref="smart-shelf">
       <caption webpage="smart-shelf" alt=""/>
     </file>
     <file name="4-crop-u25710.jpg" crc="230568496" seo="true" ref="smart-shelf">
@@ -2190,7 +2190,7 @@
   <file name="index.html" crc="142590905" seo="true" mt="1524668310823" redirect="true"/>
   <file name="everydays.html" crc="4056405327" seo="true" mt="1525977321523" redirect="true"/>
   <file name="photography.html" crc="4249465317" seo="true" mt="1525977321523" redirect="true"/>
-  <file name="smart-shelf.html" crc="4076819426" seo="true" mt="1525977423370" redirect="true"/>
+  <file name="smart-shelf.html" crc="70367651" seo="true" mt="1525979616960" redirect="true"/>
   <file name="stay-tuned!.html" crc="3988792335" seo="true" mt="1524073780664" redirect="true"/>
   <file name="user-testing-for-physical-spaces.html" crc="4194424335" seo="true" mt="1525977321523" redirect="true"/>
   <file name="movies.html" crc="3877195081" seo="true" mt="1525977321523" redirect="true"/>
