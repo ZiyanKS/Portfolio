@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/user-testing-for-physical-spaces.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +308,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/everydays.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -938,13 +938,13 @@
   </url>
   <url>
     <loc>http://www.siyan.in/photography.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.siyan.in/smart-shelf.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -993,9 +993,6 @@
       <image:loc>http://www.siyan.in/images/5-crop-u257532.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/61199x1074.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.siyan.in/images/1799x1088.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1009,9 +1006,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/5-crop-u257533.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/6799x716.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/1640x871.jpg</image:loc>
@@ -1029,9 +1023,6 @@
       <image:loc>http://www.siyan.in/images/5640x1376.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/6640x573.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.siyan.in/images/1400x544.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1047,9 +1038,6 @@
       <image:loc>http://www.siyan.in/images/5400x860.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/6400x358.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.siyan.in/images/1267x363.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1063,9 +1051,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/5267x573.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/6267x239.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/back-3105x100.png</image:loc>
@@ -1109,10 +1094,79 @@
     <image:image>
       <image:loc>http://www.siyan.in/images/back-330x29.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/61196x1778.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/71197x290.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/81197x290.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/91197x634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/6798x1186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/7798x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/8798x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/9798x423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/6638x949.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/7638x155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/8638x155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/9638x338.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/6399x593.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/7399x97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/8399x97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/9399x212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/6266x396.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/7266x65.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/8266x65.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/9266x141.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.siyan.in/shower-gel-packaging.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1154,7 +1208,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/celkon---branding,-packaging-and-retail-display.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1274,7 +1328,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/movies.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1298,7 +1352,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/tourism-promotion-in-metro-stations.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1388,7 +1442,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/dhwani.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
