@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1525977630750">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1525979108886">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="photography.css" crc="4247834138" ref="photography"/>
@@ -23,8 +23,8 @@
     <file name="nomq_movies.css" crc="4063179343" ref="movies"/>
     <file name="tourism-promotion-in-metro-stations.css" crc="44813974" ref="tourism-promotion-in-metro-stations"/>
     <file name="nomq_tourism-promotion-in-metro-stations.css" crc="503154350" ref="tourism-promotion-in-metro-stations"/>
-    <file name="dhwani.css" crc="375365956" ref="dhwani"/>
-    <file name="nomq_dhwani.css" crc="4198243107" ref="dhwani"/>
+    <file name="dhwani.css" crc="266295084" ref="dhwani"/>
+    <file name="nomq_dhwani.css" crc="292691231" ref="dhwani"/>
     <file name="master_a-master.css" crc="234184419" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="344415538" ref="index"/>
     <file name="master_projects.css" crc="3852109067" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
@@ -49,7 +49,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="everydays"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4104844694" ref="index:everydays"/>
+    <file name="favicon.ico" crc="4104844694" ref="index:everydays:dhwani"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -2042,9 +2042,6 @@
     <file name="siyan-dhwani-2-crop-u35457.jpg" crc="478514797" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
-    <file name="siyan-dhwani-3-crop-u35469.jpg" crc="355542005" seo="true" ref="dhwani">
-      <caption webpage="dhwani" alt=""/>
-    </file>
     <file name="animation-siyan-3.gif" crc="327924768" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
       <caption webpage="dhwani" alt=""/>
@@ -2075,43 +2072,28 @@
     <file name="siyan-dhwani-2-crop-u354572.jpg" crc="3820100597" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
-    <file name="siyan-dhwani-31350x2776.jpg" crc="4002915526" seo="true" ref="dhwani">
-      <caption webpage="dhwani" alt=""/>
-    </file>
     <file name="siyan-dhwani-1-crop-u360603.jpg" crc="65908440" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
     <file name="siyan-dhwani-2-crop-u354573.jpg" crc="26468564" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
-    <file name="siyan-dhwani-3900x1851.jpg" crc="4269956103" seo="true" ref="dhwani">
-      <caption webpage="dhwani" alt=""/>
-    </file>
     <file name="siyan-dhwani-1-crop-u360604.jpg" crc="3860886946" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
-    <file name="siyan-dhwani-2-crop-u354574.jpg" crc="3957740755" seo="true" ref="dhwani">
-      <caption webpage="dhwani" alt=""/>
-    </file>
-    <file name="siyan-dhwani-3748x1539.jpg" crc="414083071" seo="true" ref="dhwani">
+    <file name="siyan-dhwani-2-crop-u354574.jpg" crc="321427869" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
     <file name="siyan-dhwani-1-crop-u360605.jpg" crc="3996313336" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
-    <file name="siyan-dhwani-2-crop-u354575.jpg" crc="4189182908" seo="true" ref="dhwani">
-      <caption webpage="dhwani" alt=""/>
-    </file>
-    <file name="siyan-dhwani-3468x962.jpg" crc="4010558170" seo="true" ref="dhwani">
+    <file name="siyan-dhwani-2-crop-u354575.jpg" crc="25384640" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
     <file name="siyan-dhwani-1300x1305.jpg" crc="533017389" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
     <file name="siyan-dhwani-2-crop-u354576.jpg" crc="225251879" seo="true" ref="dhwani">
-      <caption webpage="dhwani" alt=""/>
-    </file>
-    <file name="siyan-dhwani-3312x641.jpg" crc="3997512535" seo="true" ref="dhwani">
       <caption webpage="dhwani" alt=""/>
     </file>
     <file name="7.jpg" crc="3939873816" seo="true" ref="smart-shelf">
@@ -2186,6 +2168,24 @@
     <file name="9266x141.jpg" crc="351134066" seo="true" ref="smart-shelf">
       <caption webpage="smart-shelf" alt=""/>
     </file>
+    <file name="siyan-dhwani-3-1-crop-u36882.jpg" crc="111417723" seo="true" ref="dhwani">
+      <caption webpage="dhwani" alt=""/>
+    </file>
+    <file name="siyan-dhwani-3-1-crop-u368822.jpg" crc="420097442" seo="true" ref="dhwani">
+      <caption webpage="dhwani" alt=""/>
+    </file>
+    <file name="siyan-dhwani-3-1-crop-u368823.jpg" crc="3763909581" seo="true" ref="dhwani">
+      <caption webpage="dhwani" alt=""/>
+    </file>
+    <file name="siyan-dhwani-3-1-crop-u368824.jpg" crc="187348278" seo="true" ref="dhwani">
+      <caption webpage="dhwani" alt=""/>
+    </file>
+    <file name="siyan-dhwani-3-1450x1059.jpg" crc="3815587152" seo="true" ref="dhwani">
+      <caption webpage="dhwani" alt=""/>
+    </file>
+    <file name="siyan-dhwani-3-1300x706.jpg" crc="281623946" seo="true" ref="dhwani">
+      <caption webpage="dhwani" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="142590905" seo="true" mt="1524668310823" redirect="true"/>
   <file name="everydays.html" crc="4056405327" seo="true" mt="1525977321523" redirect="true"/>
@@ -2197,5 +2197,5 @@
   <file name="shower-gel-packaging.html" crc="322654540" seo="true" mt="1525977321523" redirect="true"/>
   <file name="celkon---branding,-packaging-and-retail-display.html" crc="435473835" seo="true" mt="1525977321523" redirect="true"/>
   <file name="tourism-promotion-in-metro-stations.html" crc="464545501" seo="true" mt="1525977321523" redirect="true"/>
-  <file name="dhwani.html" crc="3806800433" seo="true" mt="1525977321523" redirect="true"/>
+  <file name="dhwani.html" crc="4245340102" seo="true" mt="1525978992645" redirect="true"/>
 </manifest>
