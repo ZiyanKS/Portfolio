@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1525979693442">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1528835322726">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="photography.css" crc="4247834138" ref="photography"/>
     <file name="nomq_photography.css" crc="4146473393" ref="photography"/>
-    <file name="index.css" crc="3969723947" ref="index"/>
-    <file name="nomq_index.css" crc="3963836686" ref="index"/>
+    <file name="index.css" crc="3965393329" ref="index"/>
+    <file name="nomq_index.css" crc="3908849236" ref="index"/>
     <file name="stay-tuned_.css" crc="4152684102" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="136825898" ref="stay-tuned!"/>
     <file name="smart-shelf.css" crc="4221183103" ref="smart-shelf"/>
@@ -25,14 +25,15 @@
     <file name="nomq_tourism-promotion-in-metro-stations.css" crc="503154350" ref="tourism-promotion-in-metro-stations"/>
     <file name="dhwani.css" crc="266295084" ref="dhwani"/>
     <file name="nomq_dhwani.css" crc="292691231" ref="dhwani"/>
-    <file name="master_a-master.css" crc="234184419" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="344415538" ref="index"/>
+    <file name="master_a-master.css" crc="344415538" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
     <file name="master_projects.css" crc="298681692" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
     <file name="nomq_preview_master_projects.css" crc="3824530138" ref="photography:tourism-promotion-in-metro-stations:user-testing-for-physical-spaces:movies:celkon---branding,-packaging-and-retail-display:dhwani:shower-gel-packaging:smart-shelf:everydays"/>
   </folder>
   <folder name="assets">
     <file name="resume---siyan.pdf" crc="4019545656" seo="true" mt="1513283000000"/>
     <file name="-mr--customer-preloader-v2.mulib" crc="72198757" seo="true" mt="1433089078000"/>
+    <file name="resume---siyan-k-s.pdf" crc="3963708568" seo="true" mt="1528835018000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:everydays:photography:smart-shelf:stay-tuned!:user-testing-for-physical-spaces:movies:shower-gel-packaging:celkon---branding,-packaging-and-retail-display:tourism-promotion-in-metro-stations:dhwani"/>
@@ -2187,7 +2188,7 @@
       <caption webpage="dhwani" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="142590905" seo="true" mt="1524668310823" redirect="true"/>
+  <file name="index.html" crc="4095454270" seo="true" mt="1528835288737" redirect="true"/>
   <file name="everydays.html" crc="4056405327" seo="true" mt="1525977321523" redirect="true"/>
   <file name="photography.html" crc="4249465317" seo="true" mt="1525977321523" redirect="true"/>
   <file name="smart-shelf.html" crc="70367651" seo="true" mt="1525979616960" redirect="true"/>
