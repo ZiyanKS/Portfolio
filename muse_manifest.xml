@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1542512636012">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1542512783136">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_projects.css" crc="3937418299" ref="skill-training-for-minimally-educated:plugo-mobile-app:plugo-ev-charging-stations:movies:everydays:smart-shelf:dhwani:photography"/>
@@ -13,7 +13,7 @@
     <file name="nomq_skill-training-for-minimally-educated.css" crc="4033003014" ref="skill-training-for-minimally-educated"/>
     <file name="plugo-mobile-app.css" crc="238720465" ref="plugo-mobile-app"/>
     <file name="nomq_plugo-mobile-app.css" crc="137904936" ref="plugo-mobile-app"/>
-    <file name="index.css" crc="4077219721" ref="index"/>
+    <file name="index.css" crc="4169959662" ref="index"/>
     <file name="nomq_index.css" crc="4146645479" ref="index"/>
     <file name="plugo-ev-charging-stations.css" crc="3767951303" ref="plugo-ev-charging-stations"/>
     <file name="nomq_plugo-ev-charging-stations.css" crc="472290680" ref="plugo-ev-charging-stations"/>
@@ -2213,7 +2213,7 @@
     <file name="u43404-10.png" crc="79303921" ref="plugo-ev-charging-stations"/>
     <file name="u43404-10_2x.png" crc="484185665" ref="plugo-ev-charging-stations"/>
   </folder>
-  <file name="index.html" crc="270285276" seo="true" mt="1542509690614" redirect="true"/>
+  <file name="index.html" crc="4291786849" seo="true" mt="1542512736144" redirect="true"/>
   <file name="everydays.html" crc="415221611" seo="true" mt="1538424667665" redirect="true"/>
   <file name="photography.html" crc="4187314397" seo="true" mt="1538424667650" redirect="true"/>
   <file name="movies.html" crc="3994684251" seo="true" mt="1538424667667" redirect="true"/>
