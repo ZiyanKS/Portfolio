@@ -1032,9 +1032,6 @@
       <image:loc>http://www.siyan.in/images/plugo-siyan-71197x3939.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/plugo-siyan-81197x2372.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.siyan.in/images/ev-charging-station797x308.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1057,9 +1054,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/plugo-siyan-7798x2626.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.siyan.in/images/plugo-siyan-8798x1582.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/ev-charging-station637x246.jpg</image:loc>
@@ -1086,7 +1080,13 @@
       <image:loc>http://www.siyan.in/images/plugo-siyan-7638x2101.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.siyan.in/images/plugo-siyan-8638x1265.jpg</image:loc>
+      <image:loc>http://www.siyan.in/images/plugo-siyan-81197x2374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-siyan-8798x1583.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-siyan-8639x1266.jpg</image:loc>
     </image:image>
   </url>
   <url>

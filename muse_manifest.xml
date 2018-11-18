@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1542509763654">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1542512636012">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_projects.css" crc="3937418299" ref="skill-training-for-minimally-educated:plugo-mobile-app:plugo-ev-charging-stations:movies:everydays:smart-shelf:dhwani:photography"/>
@@ -9,22 +9,22 @@
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
     <file name="stay-tuned_.css" crc="4213361357" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="109079923" ref="stay-tuned!"/>
-    <file name="skill-training-for-minimally-educated.css" crc="4022178662" ref="skill-training-for-minimally-educated"/>
-    <file name="nomq_skill-training-for-minimally-educated.css" crc="3848911149" ref="skill-training-for-minimally-educated"/>
+    <file name="skill-training-for-minimally-educated.css" crc="49204084" ref="skill-training-for-minimally-educated"/>
+    <file name="nomq_skill-training-for-minimally-educated.css" crc="4033003014" ref="skill-training-for-minimally-educated"/>
     <file name="plugo-mobile-app.css" crc="238720465" ref="plugo-mobile-app"/>
     <file name="nomq_plugo-mobile-app.css" crc="137904936" ref="plugo-mobile-app"/>
     <file name="index.css" crc="4077219721" ref="index"/>
     <file name="nomq_index.css" crc="4146645479" ref="index"/>
-    <file name="plugo-ev-charging-stations.css" crc="4260992427" ref="plugo-ev-charging-stations"/>
-    <file name="nomq_plugo-ev-charging-stations.css" crc="130826550" ref="plugo-ev-charging-stations"/>
+    <file name="plugo-ev-charging-stations.css" crc="3767951303" ref="plugo-ev-charging-stations"/>
+    <file name="nomq_plugo-ev-charging-stations.css" crc="472290680" ref="plugo-ev-charging-stations"/>
     <file name="movies.css" crc="314696553" ref="movies"/>
     <file name="nomq_movies.css" crc="4063179343" ref="movies"/>
     <file name="everydays.css" crc="217023679" ref="everydays"/>
     <file name="nomq_everydays.css" crc="4263054484" ref="everydays"/>
-    <file name="smart-shelf.css" crc="166494982" ref="smart-shelf"/>
-    <file name="nomq_smart-shelf.css" crc="430999275" ref="smart-shelf"/>
-    <file name="dhwani.css" crc="3989077023" ref="dhwani"/>
-    <file name="nomq_dhwani.css" crc="3851969312" ref="dhwani"/>
+    <file name="smart-shelf.css" crc="327391129" ref="smart-shelf"/>
+    <file name="nomq_smart-shelf.css" crc="3936579728" ref="smart-shelf"/>
+    <file name="dhwani.css" crc="3940128825" ref="dhwani"/>
+    <file name="nomq_dhwani.css" crc="3886788615" ref="dhwani"/>
     <file name="photography.css" crc="20776221" ref="photography"/>
     <file name="nomq_photography.css" crc="4146473393" ref="photography"/>
   </folder>
@@ -46,7 +46,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="everydays"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4104844694" ref="index:plugo-ev-charging-stations"/>
+    <file name="favicon.ico" crc="4104844694" ref="index:smart-shelf"/>
     <file name="siyan_portfolio.png" crc="21212805" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1972,19 +1972,11 @@
     <file name="plugo-siyan-7.jpg" crc="4134329398" seo="true" ref="plugo-ev-charging-stations">
       <caption webpage="plugo-ev-charging-stations" alt=""/>
     </file>
-    <file name="plugo-siyan-8.jpg" crc="4088467586" seo="true" ref="plugo-ev-charging-stations">
+    <file name="plugo-siyan-8.jpg" crc="312209030" seo="true" ref="plugo-ev-charging-stations">
       <caption webpage="plugo-ev-charging-stations" alt=""/>
     </file>
     <file name="u41601-6.png" crc="3855142563" ref="plugo-ev-charging-stations"/>
     <file name="u41601-6_2x.png" crc="4039353976" ref="plugo-ev-charging-stations"/>
-    <file name="u41933_states.png" crc="192236356" ref="plugo-ev-charging-stations"/>
-    <file name="u41933_states_2x.png" crc="4100579589" ref="plugo-ev-charging-stations"/>
-    <file name="u41933_states-r.png" crc="134917724" ref="plugo-ev-charging-stations"/>
-    <file name="u41933_states-r_2x.png" crc="4018081628" ref="plugo-ev-charging-stations"/>
-    <file name="u41934_states.png" crc="289809205" ref="plugo-ev-charging-stations"/>
-    <file name="u41934_states_2x.png" crc="521661457" ref="plugo-ev-charging-stations"/>
-    <file name="u41934_states-r.png" crc="4268031653" ref="plugo-ev-charging-stations"/>
-    <file name="u41934_states-r_2x.png" crc="295212949" ref="plugo-ev-charging-stations"/>
     <file name="u39968_states.png" crc="4260223165" ref="plugo-ev-charging-stations"/>
     <file name="u39968_states_2x.png" crc="4277484807" ref="plugo-ev-charging-stations"/>
     <file name="u39968_states-r.png" crc="528076957" ref="plugo-ev-charging-stations"/>
@@ -2023,9 +2015,6 @@
       <caption webpage="plugo-ev-charging-stations" alt=""/>
     </file>
     <file name="plugo-siyan-71197x3939.jpg" crc="4285884499" seo="true" ref="plugo-ev-charging-stations">
-      <caption webpage="plugo-ev-charging-stations" alt=""/>
-    </file>
-    <file name="plugo-siyan-81197x2372.jpg" crc="3842577728" seo="true" ref="plugo-ev-charging-stations">
       <caption webpage="plugo-ev-charging-stations" alt=""/>
     </file>
     <file name="u41601-62.png" crc="4154350794" ref="plugo-ev-charging-stations"/>
@@ -2070,9 +2059,6 @@
     <file name="plugo-siyan-7798x2626.jpg" crc="387074629" seo="true" ref="plugo-ev-charging-stations">
       <caption webpage="plugo-ev-charging-stations" alt=""/>
     </file>
-    <file name="plugo-siyan-8798x1582.jpg" crc="276714930" seo="true" ref="plugo-ev-charging-stations">
-      <caption webpage="plugo-ev-charging-stations" alt=""/>
-    </file>
     <file name="u41601-63.png" crc="4289058822" ref="plugo-ev-charging-stations"/>
     <file name="u41601-6_2x3.png" crc="260232001" ref="plugo-ev-charging-stations"/>
     <file name="u39973_states3.png" crc="217832036" ref="plugo-ev-charging-stations"/>
@@ -2115,9 +2101,6 @@
     <file name="plugo-siyan-7638x2101.jpg" crc="352646879" seo="true" ref="plugo-ev-charging-stations">
       <caption webpage="plugo-ev-charging-stations" alt=""/>
     </file>
-    <file name="plugo-siyan-8638x1265.jpg" crc="4097711057" seo="true" ref="plugo-ev-charging-stations">
-      <caption webpage="plugo-ev-charging-stations" alt=""/>
-    </file>
     <file name="u41601-64.png" crc="4135129573" ref="plugo-ev-charging-stations"/>
     <file name="u41601-6_2x4.png" crc="4179944882" ref="plugo-ev-charging-stations"/>
     <file name="u39973_states4.png" crc="4182724773" ref="plugo-ev-charging-stations"/>
@@ -2128,18 +2111,6 @@
     <file name="u39968_states_2x4.png" crc="333549186" ref="plugo-ev-charging-stations"/>
     <file name="u39968_states-r4.png" crc="4177569374" ref="plugo-ev-charging-stations"/>
     <file name="u39968_states-r_2x4.png" crc="300593722" ref="plugo-ev-charging-stations"/>
-    <file name="u41824-10.png" crc="323880379" ref="plugo-ev-charging-stations"/>
-    <file name="u41824-10_2x.png" crc="439415024" ref="plugo-ev-charging-stations"/>
-    <file name="u41902_states.png" crc="3860506878" ref="plugo-ev-charging-stations"/>
-    <file name="u41902_states_2x.png" crc="4186990152" ref="plugo-ev-charging-stations"/>
-    <file name="u41902_states-r.png" crc="3945390241" ref="plugo-ev-charging-stations"/>
-    <file name="u41902_states-r_2x.png" crc="164559849" ref="plugo-ev-charging-stations"/>
-    <file name="u41903_states.png" crc="278247805" ref="plugo-ev-charging-stations"/>
-    <file name="u41903_states_2x.png" crc="3844809264" ref="plugo-ev-charging-stations"/>
-    <file name="u41903_states-r.png" crc="4135797898" ref="plugo-ev-charging-stations"/>
-    <file name="u41903_states-r_2x.png" crc="4194393114" ref="plugo-ev-charging-stations"/>
-    <file name="u41833-10.png" crc="79303921" ref="plugo-ev-charging-stations"/>
-    <file name="u41833-10_2x.png" crc="484185665" ref="plugo-ev-charging-stations"/>
     <file name="ev-app.jpg" crc="4180086019" seo="true" ref="plugo-mobile-app">
       <caption webpage="plugo-mobile-app" alt=""/>
     </file>
@@ -2228,15 +2199,28 @@
     <file name="u43087-10_2x.png" crc="439415024" ref="plugo-mobile-app"/>
     <file name="u43069-10.png" crc="79303921" ref="plugo-mobile-app"/>
     <file name="u43069-10_2x.png" crc="484185665" ref="plugo-mobile-app"/>
+    <file name="plugo-siyan-81197x2374.jpg" crc="376505482" seo="true" ref="plugo-ev-charging-stations">
+      <caption webpage="plugo-ev-charging-stations" alt=""/>
+    </file>
+    <file name="plugo-siyan-8798x1583.jpg" crc="4209860566" seo="true" ref="plugo-ev-charging-stations">
+      <caption webpage="plugo-ev-charging-stations" alt=""/>
+    </file>
+    <file name="plugo-siyan-8639x1266.jpg" crc="465233218" seo="true" ref="plugo-ev-charging-stations">
+      <caption webpage="plugo-ev-charging-stations" alt=""/>
+    </file>
+    <file name="u43386-10.png" crc="323880379" ref="plugo-ev-charging-stations"/>
+    <file name="u43386-10_2x.png" crc="439415024" ref="plugo-ev-charging-stations"/>
+    <file name="u43404-10.png" crc="79303921" ref="plugo-ev-charging-stations"/>
+    <file name="u43404-10_2x.png" crc="484185665" ref="plugo-ev-charging-stations"/>
   </folder>
   <file name="index.html" crc="270285276" seo="true" mt="1542509690614" redirect="true"/>
   <file name="everydays.html" crc="415221611" seo="true" mt="1538424667665" redirect="true"/>
   <file name="photography.html" crc="4187314397" seo="true" mt="1538424667650" redirect="true"/>
   <file name="movies.html" crc="3994684251" seo="true" mt="1538424667667" redirect="true"/>
-  <file name="smart-shelf.html" crc="3916407747" seo="true" mt="1542506665105" redirect="true"/>
+  <file name="smart-shelf.html" crc="425064180" seo="true" mt="1542512321963" redirect="true"/>
   <file name="stay-tuned!.html" crc="164354933" seo="true" mt="1538424667636" redirect="true"/>
-  <file name="dhwani.html" crc="364640503" seo="true" mt="1542508025114" redirect="true"/>
-  <file name="skill-training-for-minimally-educated.html" crc="4092330363" seo="true" mt="1542508303262" redirect="true"/>
-  <file name="plugo-ev-charging-stations.html" crc="3967741768" seo="true" mt="1542509509361" redirect="true"/>
+  <file name="dhwani.html" crc="388249156" seo="true" mt="1542512439300" redirect="true"/>
+  <file name="skill-training-for-minimally-educated.html" crc="4261787113" seo="true" mt="1542512233388" redirect="true"/>
+  <file name="plugo-ev-charging-stations.html" crc="334317468" seo="true" mt="1542512160307" redirect="true"/>
   <file name="plugo-mobile-app.html" crc="500716841" seo="true" mt="1542508794908" redirect="true"/>
 </manifest>
