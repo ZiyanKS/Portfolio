@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/smart-shelf.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/everydays.html</loc>
-    <lastmod>2018-10-02</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -824,13 +824,13 @@
   </url>
   <url>
     <loc>http://www.siyan.in/photography.html</loc>
-    <lastmod>2018-10-02</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.siyan.in/movies.html</loc>
-    <lastmod>2018-10-02</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -854,7 +854,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/skill-training-for-minimally-educated.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -926,7 +926,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/dhwani.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -977,7 +977,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/plugo-ev-charging-stations.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1091,7 +1091,7 @@
   </url>
   <url>
     <loc>http://www.siyan.in/plugo-mobile-app.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1105,6 +1105,93 @@
     </image:image>
     <image:image>
       <image:loc>http://www.siyan.in/images/ev-app639x246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-1-crop-u43564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-4-crop-u44006.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/cover.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/find-charger.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/monitor-charging.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plan-trip.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/vehicle-profile-slide.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-1-crop-u435642.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-21197x2936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-31197x1316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-4-crop-u440062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-101197x674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-111197x674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-1-crop-u435643.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-2798x1958.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-3798x878.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-4-crop-u440063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-10798x449.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-11798x449.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-1636x1493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-2639x1566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-3639x702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-4639x1335.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-10639x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.siyan.in/images/plugo-mobile-app-11639x360.jpg</image:loc>
     </image:image>
   </url>
   <url>
