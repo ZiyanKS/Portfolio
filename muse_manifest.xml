@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1542841176180">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.siyan.in" resolutions="1x,2x" timestamp="1543216107690">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_projects.css" crc="438276638" ref="skill-training-for-minimally-educated:plugo-mobile-app:plugo-ev-charging-stations:movies:everydays:smart-shelf:dhwani:photography"/>
     <file name="nomq_preview_master_projects.css" crc="4053267875" ref="skill-training-for-minimally-educated:plugo-mobile-app:plugo-ev-charging-stations:movies:everydays:smart-shelf:dhwani:photography"/>
     <file name="master_stay-tuned.css" crc="206329819" ref="stay-tuned!"/>
     <file name="nomq_preview_master_stay-tuned.css" crc="4168523958" ref="stay-tuned!"/>
-    <file name="master_a-master.css" crc="464380930" ref="index"/>
+    <file name="master_a-master.css" crc="3796068302" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
     <file name="stay-tuned_.css" crc="4213361357" ref="stay-tuned!"/>
     <file name="nomq_stay-tuned_.css" crc="109079923" ref="stay-tuned!"/>
@@ -13,7 +13,7 @@
     <file name="nomq_skill-training-for-minimally-educated.css" crc="4286122951" ref="skill-training-for-minimally-educated"/>
     <file name="plugo-mobile-app.css" crc="3856858660" ref="plugo-mobile-app"/>
     <file name="nomq_plugo-mobile-app.css" crc="3997088119" ref="plugo-mobile-app"/>
-    <file name="index.css" crc="4169959662" ref="index"/>
+    <file name="index.css" crc="8165836" ref="index"/>
     <file name="nomq_index.css" crc="4146645479" ref="index"/>
     <file name="plugo-ev-charging-stations.css" crc="511520661" ref="plugo-ev-charging-stations"/>
     <file name="nomq_plugo-ev-charging-stations.css" crc="209121360" ref="plugo-ev-charging-stations"/>
@@ -229,10 +229,10 @@
     <file name="siyan_everydays_1-u19465-fr_2x.jpg" crc="402093905" ref="index"/>
     <file name="u1722-43.png" crc="3382556" ref="index"/>
     <file name="u1722-4_2x3.png" crc="3945253699" ref="index"/>
-    <file name="microsoft-siyan-design2.jpg" crc="3919911735" ref="index">
+    <file name="microsoft-siyan-design2.jpg" crc="192792741" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="microsoft-siyan-design_2x.jpg" crc="433089586" ref="index">
+    <file name="microsoft-siyan-design_2x.jpg" crc="192792741" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ev--station-siyan-design2.jpg" crc="3832780399" ref="index">
@@ -309,8 +309,8 @@
     <file name="siyan_everydays_1-u19465-fr_2x2.jpg" crc="398873699" ref="index"/>
     <file name="u1722-44.png" crc="38936705" ref="index"/>
     <file name="u1722-4_2x4.png" crc="4286622748" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr.jpg" crc="226824683" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr_2x.jpg" crc="4239921754" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr.jpg" crc="4063623980" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr_2x.jpg" crc="4260449965" ref="index"/>
     <file name="ev--station-siyan-design-u26471-fr.jpg" crc="526044687" ref="index"/>
     <file name="ev--station-siyan-design-u26471-fr_2x.jpg" crc="113721653" ref="index"/>
     <file name="ev-station-app-siyan-design-u11528-fr2.jpg" crc="147263466" ref="index"/>
@@ -349,8 +349,8 @@
     <file name="siyan_everydays_2-u37854-fr_2x3.jpg" crc="4120309060" ref="index"/>
     <file name="u1722-45.png" crc="337477670" ref="index"/>
     <file name="u1722-4_2x5.png" crc="3797197994" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr2.jpg" crc="4157158770" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr_2x2.jpg" crc="4068819730" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr2.jpg" crc="4099596261" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr_2x2.jpg" crc="321463827" ref="index"/>
     <file name="ev--station-siyan-design-u26496-fr.jpg" crc="3987262075" ref="index"/>
     <file name="ev--station-siyan-design-u26496-fr_2x.jpg" crc="289856583" ref="index"/>
     <file name="ev-station-app-siyan-design-u11528-fr3.jpg" crc="3970184164" ref="index"/>
@@ -407,8 +407,8 @@
     <file name="siyan_movies_3-u23231-fr_2x.jpg" crc="4191641186" ref="index"/>
     <file name="u1722-46.png" crc="3963249009" ref="index"/>
     <file name="u1722-4_2x6.png" crc="382758427" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr3.jpg" crc="376530750" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr_2x3.jpg" crc="4106288258" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr3.jpg" crc="41277019" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr_2x3.jpg" crc="478942233" ref="index"/>
     <file name="ev--station-siyan-design-u26471-fr2.jpg" crc="4143635750" ref="index"/>
     <file name="ev--station-siyan-design-u26471-fr_2x2.jpg" crc="4003679426" ref="index"/>
     <file name="ev-station-app-siyan-design-u11528-fr4.jpg" crc="3801875315" ref="index"/>
@@ -477,10 +477,10 @@
     <file name="siyan_photography_3-u37951-fr_2x4.jpg" crc="283795448" ref="index"/>
     <file name="siyan_movies_3-u37996-fr.jpg" crc="4017437139" ref="index"/>
     <file name="siyan_movies_3-u37996-fr_2x.jpg" crc="3955021740" ref="index"/>
-    <file name="u1722-47.png" crc="606294" ref="index"/>
-    <file name="u1722-4_2x7.png" crc="149318130" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr4.jpg" crc="3913454682" ref="index"/>
-    <file name="microsoft-siyan-design-u26521-fr_2x4.jpg" crc="3980869714" ref="index"/>
+    <file name="u1722-47.png" crc="71355803" ref="index"/>
+    <file name="u1722-4_2x7.png" crc="167327797" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr4.jpg" crc="4057040749" ref="index"/>
+    <file name="microsoft-siyan-design-u26521-fr_2x4.jpg" crc="3876911768" ref="index"/>
     <file name="ev--station-siyan-design-u26471-fr3.jpg" crc="4254114186" ref="index"/>
     <file name="ev--station-siyan-design-u26471-fr_2x3.jpg" crc="4159134333" ref="index"/>
     <file name="ev-station-app-siyan-design-u11528-fr5.jpg" crc="531652972" ref="index"/>
@@ -2344,8 +2344,11 @@
     <file name="u44173-10_2x.png" crc="484185665" ref="plugo-mobile-app"/>
     <file name="u44191-46.png" crc="3964099130" ref="plugo-mobile-app"/>
     <file name="u44191-4_2x6.png" crc="3794537340" ref="plugo-mobile-app"/>
+    <file name="microsoft-siyan-design3.jpg" crc="16061848" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4291786849" seo="true" mt="1542512736144" redirect="true"/>
+  <file name="index.html" crc="4227029373" seo="true" mt="1543216044460" redirect="true"/>
   <file name="everydays.html" crc="3779819475" seo="true" mt="1542840808469" redirect="true"/>
   <file name="photography.html" crc="4105023174" seo="true" mt="1542840808469" redirect="true"/>
   <file name="movies.html" crc="500119684" seo="true" mt="1542840808469" redirect="true"/>
